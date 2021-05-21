@@ -1,7 +1,7 @@
 ![](https://storage.googleapis.com/incind/CISDarkeLJBiNH.png)
 
-## Code Innovation Hackathon - Alt Campus
-This is the official Idea/project submission repository for CODE INNOVATION SERIES HACKATHON - Alt Campus.
+## Code Innovation Hackathon - Vishwakarma Institute of Technology.
+This is the official Idea/project submission repository for CODE INNOVATION SERIES HACKATHON - Vishwakarma Institute of Technology..
 
 ## Submission Procedure
 Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
