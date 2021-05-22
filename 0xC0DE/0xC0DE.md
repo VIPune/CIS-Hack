@@ -1,4 +1,4 @@
-![banner](https://github.com/OverPoweredDev/CIS-Hack/blob/master/0xC0DE/media/banner.png)
+![banner](https://github.com/OverPoweredDev/CIS-Hack/blob/main/0xC0DE/media/banner.png)
 # EduGain
 ##### By team 0xC0DE
 
