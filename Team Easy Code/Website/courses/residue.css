@@ -1,0 +1,3377 @@
+.column {
+  float: left;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+
+.column img {
+  width: 400px;
+  height: 150px;
+}
+
+#login {
+  margin-top: 0%;
+  color: black;
+  display: block;
+  padding: 8px;
+  background-color: #a4c31d;
+}
+
+#form {
+  margin-top: 6%;
+  margin-left: 60%;
+  width: 320px;
+  text-align: center;
+  /* background-color: #EFE8E8; */
+  align-items: center;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+input {
+  display: block;
+  width: 240px;
+  margin-top: 10%;
+  padding: 10px;
+  margin-left: 15%;
+}
+
+.loginbtn {
+  background-color: #a4c31d;
+  padding: 8px;
+  color: white;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 15rem;
+  border: none;
+  /* margin-top: 10%; */
+  margin-bottom: 10%;
+  /* margin-left:  0%; */
+  border-radius: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .poster {
+    width: 90%;
+  }
+
+  .header-buttons {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .header1 {
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* second header */
+
+  .columnlogo {
+    padding-left: -30%;
+    text-align: left;
+    padding-right: -30%;
+    color: #fefefe;
+    font-size: 30px;
+    /* width: 30%; */
+  }
+
+  .fa-whatsapp {
+    color: green;
+    margin-left: 50%;
+    font-size: 200%;
+    padding-bottom: -15%;
+  }
+
+  .fa-phone {
+    color: white;
+    margin-left: 50%;
+    font-size: 200%;
+    margin-top: -15%;
+  }
+
+  .columnha {
+    margin-left: 12%;
+  }
+
+  .rowh {
+    padding-left: 17%;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* footer */
+  footer {
+    background-color: #04131a;
+    padding-top: 2%;
+  }
+
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 10%;
+  }
+
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding-bottom: 9%;
+  }
+
+  .column-footer a.left-footer-links {
+    padding-left: 20%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .column-footer a.right-footer-links {
+    padding-left: 30%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 2%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    text-align: center;
+  }
+
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+    padding-bottom: 15%;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+  }
+
+  .fa-instagram {
+    background: radial-gradient(
+      circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%
+    );
+    color: white;
+    font-size: 30px;
+  }
+
+  .icon-footer {
+    margin-left: 30%;
+  }
+
+  .title {
+    display: inline-block;
+    font-size: 5px;
+  }
+
+  .v {
+    display: flex;
+    margin-left: 0px;
+  }
+
+  .c {
+    margin-right: 50px;
+  }
+
+  #h1 {
+    font-size: 25px;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    position: relative;
+    top: -20px;
+  }
+
+  .li {
+    margin-right: 0px;
+    font-size: 15px;
+    margin-left: 0px;
+  }
+
+  .li {
+    padding: 10px;
+  }
+
+  #winners {
+    margin-left: 23%;
+    margin-top: 5%;
+  }
+
+  #topic {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  #w1,
+  #w2,
+  #w3 {
+    width: 90%;
+    margin-left: 5%;
+    height: 150px;
+  }
+
+  #logo {
+    margin-left: 5%;
+  }
+
+  #no1 {
+    margin-top: -40px;
+  }
+
+  .first-boxx {
+    display: none;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 7%;
+    margin-top: 10%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .columnlogo {
+    padding-left: -30%;
+    text-align: left;
+    padding-right: -30%;
+    color: #fefefe;
+    font-size: 30px;
+    margin-top: 50%;
+    /* width: 30%; */
+  }
+
+  .fa-whatsapp {
+    color: green;
+    margin-left: 100%;
+    font-size: 200%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+  }
+
+  .fa-phone {
+    color: white;
+    margin-left: 40%;
+    font-size: 200%;
+    margin-top: -15%;
+  }
+
+  .columnha {
+    margin-left: 60%;
+  }
+
+  .rowh {
+    padding-left: 2%;
+  }
+
+  /* footer */
+  footer {
+    background-color: #04131a;
+    padding-top: 2%;
+    height: 240px;
+  }
+
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column-footer a.left-footer-links {
+    padding-left: 15%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .column-footer a.right-footer-links {
+    padding-left: 65%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    text-align: center;
+  }
+
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+  }
+
+  .fa-instagram {
+    background: radial-gradient(
+      circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%
+    );
+    color: white;
+    font-size: 30px;
+  }
+
+  .icon-footer {
+    margin-left: 32%;
+  }
+
+  .title {
+    display: flex;
+  }
+
+  .v {
+    display: flex;
+    margin-left: 40%;
+  }
+
+  .c {
+    margin-right: 20px;
+  }
+
+  #h1 {
+    font-size: 35px;
+  }
+
+  .li {
+    margin-right: 20px;
+    font-size: 20px;
+  }
+
+  .li {
+    padding: 10px;
+  }
+
+  #w1,
+  #w2,
+  #w3 {
+    width: 70%;
+    margin-left: 20%;
+  }
+
+  #no1 {
+    margin-top: 10%;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 7%;
+    margin-top: 10%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .columnlogo {
+    padding-left: -30%;
+    text-align: left;
+    padding-right: -30%;
+    color: #fefefe;
+    font-size: 30px;
+    /* width: 30%; */
+  }
+
+  .fa-whatsapp {
+    color: green;
+    margin-left: 100%;
+    font-size: 200%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+  }
+
+  .fa-phone {
+    color: white;
+    margin-left: 50%;
+    font-size: 200%;
+    margin-top: -15%;
+  }
+
+  .columnha {
+    margin-left: 70%;
+  }
+
+  .rowh {
+    padding-left: 2%;
+  }
+
+  /* footer */
+  footer {
+    background-color: #04131a;
+    padding-top: 2%;
+    height: 240px;
+  }
+
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column-footer a.left-footer-links {
+    padding-left: 15%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .column-footer a.right-footer-links {
+    padding-left: 65%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    text-align: center;
+  }
+
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+  }
+
+  .fa-instagram {
+    background: radial-gradient(
+      circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%
+    );
+    color: white;
+    font-size: 30px;
+  }
+
+  .icon-footer {
+    margin-left: 32%;
+  }
+
+  .title {
+    display: flex;
+  }
+
+  .v {
+    display: flex;
+    margin-left: 10%;
+  }
+
+  .c {
+    margin-right: 40px;
+  }
+
+  #h1 {
+    font-size: 35px;
+  }
+
+  .li {
+    margin-right: 30px;
+    font-size: 20px;
+  }
+
+  #div {
+    margin-left: 10%;
+  }
+
+  .li {
+    padding: 10px;
+  }
+
+  #w1,
+  #w2,
+  #w3 {
+    width: 70%;
+    margin-left: 20%;
+  }
+
+  #no1 {
+    margin-top: 10%;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnha {
+    margin-left: 12%;
+  }
+
+  .rowh {
+    padding-left: 17%;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 7%;
+    margin-top: 10%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .columnlogo {
+    padding-left: -20%;
+    text-align: left;
+    padding-right: -20%;
+    color: #fefefe;
+    font-size: 30px;
+
+    /* width: 30%; */
+  }
+
+  .fa-whatsapp {
+    color: green;
+    margin-left: 100%;
+    font-size: 200%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+  }
+
+  .fa-phone {
+    color: white;
+    margin-left: 50%;
+    font-size: 200%;
+    margin-top: -15%;
+  }
+
+  .columnha {
+    margin-left: 70%;
+  }
+
+  .rowh {
+    padding-left: 5%;
+  }
+
+  /* footer */
+  footer {
+    background-color: #04131a;
+    padding-top: 2%;
+    height: 240px;
+  }
+
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column-footer a.left-footer-links {
+    padding-left: 15%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .column-footer a.right-footer-links {
+    padding-left: 65%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    text-align: center;
+  }
+
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+  }
+
+  .fa-instagram {
+    background: radial-gradient(
+      circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%
+    );
+    color: white;
+    font-size: 30px;
+  }
+
+  .icon-footer {
+    margin-left: 32%;
+  }
+
+  .title {
+    display: flex;
+  }
+
+  .v {
+    display: flex;
+    margin-left: 50%;
+  }
+
+  .c {
+    margin-right: 30px;
+  }
+
+  #h1 {
+    font-size: 35px;
+  }
+
+  .li {
+    margin-right: 20px;
+    font-size: 20px;
+  }
+
+  #div {
+    margin-left: 40%;
+  }
+
+  .li {
+    padding: 10px;
+  }
+
+  #w1,
+  #w2,
+  #w3 {
+    width: 70%;
+    margin-left: 20%;
+  }
+
+  #no1 {
+    margin-top: 10%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 7%;
+    margin-top: 10%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: -25%;
+  }
+
+  .columnlogo {
+    padding-left: -30%;
+    text-align: left;
+    padding-right: -30%;
+    color: #fefefe;
+    font-size: 30px;
+    /* width: 30%; */
+  }
+
+  .fa-whatsapp {
+    color: green;
+    margin-left: 100%;
+    font-size: 200%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+  }
+
+  .fa-phone {
+    color: white;
+    margin-left: 50%;
+    font-size: 200%;
+    margin-top: -15%;
+  }
+
+  .columnha {
+    margin-left: 80%;
+  }
+
+  .rowh {
+    padding-left: 10%;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 7%;
+    margin-top: 10%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  /* footer */
+  footer {
+    background-color: #04131a;
+    padding-top: 2%;
+    height: 240px;
+  }
+
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .column-footer a.left-footer-links {
+    padding-left: 15%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .column-footer a.right-footer-links {
+    padding-left: 65%;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    line-height: 2;
+  }
+
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    text-align: center;
+  }
+
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+  }
+
+  .fa-instagram {
+    background: radial-gradient(
+      circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%
+    );
+    color: white;
+    font-size: 30px;
+  }
+
+  .icon-footer {
+    margin-left: 32%;
+  }
+
+  .title {
+    display: flex;
+  }
+
+  .header1 header-buttons {
+    margin-right: 20px;
+  }
+
+  .c {
+    margin-right: 20px;
+  }
+
+  #h1 {
+    font-size: 35px;
+  }
+
+  .li {
+    font-size: 20px;
+  }
+
+  #div {
+    margin-left: 63%;
+  }
+
+  .li {
+    padding: 10px;
+  }
+
+  #w1,
+  #w2,
+  #w3 {
+    width: 70%;
+    margin-left: 20%;
+  }
+
+  #no1 {
+    margin-top: 10%;
+  }
+
+  #no2 {
+    font-size: 150%;
+  }
+
+  .box-header {
+    margin-top: 50px;
+    font-size: 300%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    margin: 0;
+  }
+
+  .slidebox {
+    width: 100%;
+    height: 300px;
+  }
+
+  .slidebox img {
+    width: 10px;
+    height: 310px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+
+  /**
+* Owl Carousel v2.3.4
+* Copyright 2013-2018 David Deutsch
+* Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+*/
+  /*
+*  Owl Carousel - Core
+*/
+  .owl-carousel {
+    display: none;
+    width: 100%;
+    -webkit-tap-highlight-color: transparent;
+    /* position relative and z-index fix webkit rendering fonts issue */
+    position: relative;
+    z-index: 1;
+  }
+
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    /* fix firefox animation glitch */
+  }
+
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px);
+  }
+
+  .owl-carousel .owl-wrapper,
+  .owl-carousel .owl-item {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+  }
+
+  .owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+  }
+
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next,
+  .owl-carousel button.owl-dot {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+  }
+
+  .owl-carousel.owl-loaded {
+    display: block;
+  }
+
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block;
+  }
+
+  .owl-carousel.owl-hidden {
+    opacity: 0;
+  }
+
+  .owl-carousel.owl-refresh .owl-item {
+    visibility: hidden;
+  }
+
+  .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab;
+  }
+
+  .owl-carousel.owl-rtl {
+    direction: rtl;
+  }
+
+  .owl-carousel.owl-rtl .owl-item {
+    float: right;
+  }
+
+  /* No Js */
+  .no-js .owl-carousel {
+    display: block;
+  }
+
+  /*
+*  Owl Carousel - Animate Plugin
+*/
+  .owl-carousel .animated {
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+  }
+
+  .owl-carousel .owl-animated-in {
+    z-index: 0;
+  }
+
+  .owl-carousel .owl-animated-out {
+    z-index: 1;
+  }
+
+  .owl-carousel .fadeOut {
+    animation-name: fadeOut;
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  /*
+*  Owl Carousel - Auto Height Plugin
+*/
+  .owl-height {
+    transition: height 500ms ease-in-out;
+  }
+
+  /*
+*  Owl Carousel - Lazy Load Plugin
+*/
+  .owl-carousel .owl-item {
+    /**
+  This is introduced due to a bug in IE11 where lazy loading combined with autoheight plugin causes a wrong
+  calculation of the height of the owl-item that breaks page layouts
+ */
+  }
+
+  .owl-carousel .owl-item .owl-lazy {
+    opacity: 0;
+    transition: opacity 400ms ease;
+  }
+
+  .owl-carousel .owl-item .owl-lazy[src^=""],
+  .owl-carousel .owl-item .owl-lazy:not([src]) {
+    max-height: 0;
+  }
+
+  .owl-carousel .owl-item img.owl-lazy {
+    transform-style: preserve-3d;
+  }
+
+  /*
+*  Owl Carousel - Video Plugin
+*/
+  .owl-carousel .owl-video-wrapper {
+    position: relative;
+    height: 100%;
+    background: #000;
+  }
+
+  .owl-carousel .owl-video-play-icon {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    left: 50%;
+    top: 50%;
+    margin-left: -40px;
+    margin-top: -40px;
+    background: url("owl.video.play.png") no-repeat;
+    cursor: pointer;
+    z-index: 1;
+    -webkit-backface-visibility: hidden;
+    transition: transform 100ms ease;
+  }
+
+  .owl-carousel .owl-video-play-icon:hover {
+    -ms-transform: scale(1.3, 1.3);
+    transform: scale(1.3, 1.3);
+  }
+
+  .owl-carousel .owl-video-playing .owl-video-tn,
+  .owl-carousel .owl-video-playing .owl-video-play-icon {
+    display: none;
+  }
+
+  .owl-carousel .owl-video-tn {
+    opacity: 0;
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: opacity 400ms ease;
+  }
+
+  .owl-carousel .owl-video-frame {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+  }
+
+  .first-box {
+    background-color: lightgrey;
+    width: 90%;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 25px;
+    margin-left: 5%;
+    display: none;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+
+  .button1 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 25%;
+  }
+
+  .button1:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button2 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 14%;
+  }
+
+  .button2:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button3 {
+    background-color: #5d0e0e;
+    color: white;
+    font-weight: bold;
+    margin-left: 25%;
+    border-radius: 25px;
+  }
+
+  .button3:hover {
+    background-color: #031319;
+    color: white;
+  }
+
+  .winners-photo {
+    border-radius: 30%;
+    width: 100%;
+    height: 300px;
+  }
+
+  .column-img {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 10%;
+  }
+
+  /* Clearfix (clear floats) */
+  .row-img::after {
+    content: "";
+    clear: both;
+    display: table;
+    margin-top: 20px;
+  }
+
+  .winners-photo {
+    border-radius: 50%;
+  }
+
+  .winners-name {
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .text-box1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .winners-name {
+    text-align: center;
+    margin-top: 10%;
+    color: #fc1616;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create three unequal columns that floats next to each other */
+  .column {
+    float: left;
+    padding: 10px;
+    height: 200px;
+    /* Should be removed. Only for demonstration */
+  }
+
+  .left,
+  .right {
+    width: 25%;
+    background-color: #031319;
+  }
+
+  .middle {
+    width: 50%;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .second-box {
+    background-color: #435055;
+    width: 90%;
+    height: 80%;
+    border: 2px solid green;
+    margin: 20px;
+  }
+
+  .text-box2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .box-header {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  #poster {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    margin-left: 25%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  body {
+    margin: 0;
+  }
+
+  .slidebox {
+    width: 10px;
+    height: 300px;
+  }
+
+  .slidebox img {
+    width: 10px;
+    height: 310px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+
+  .owl-carousel {
+    display: none;
+    width: 380px;
+    -webkit-tap-highlight-color: transparent;
+    /* position relative and z-index fix webkit rendering fonts issue */
+    position: relative;
+    z-index: 1;
+  }
+
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    /* fix firefox animation glitch */
+  }
+
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px);
+  }
+
+  .owl-carousel .owl-wrapper,
+  .owl-carousel .owl-item {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+  }
+
+  .owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+  }
+
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next,
+  .owl-carousel button.owl-dot {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+  }
+
+  .owl-carousel.owl-loaded {
+    display: block;
+  }
+
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block;
+  }
+
+  .owl-carousel.owl-hidden {
+    opacity: 0;
+  }
+
+  .owl-carousel.owl-refresh .owl-item {
+    visibility: hidden;
+  }
+
+  .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab;
+  }
+
+  .owl-carousel.owl-rtl {
+    direction: rtl;
+  }
+
+  .owl-carousel.owl-rtl .owl-item {
+    float: right;
+  }
+
+  /* No Js */
+  .no-js .owl-carousel {
+    display: block;
+  }
+
+  /*
+*  Owl Carousel - Animate Plugin
+*/
+  .owl-carousel .animated {
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+  }
+
+  .owl-carousel .owl-animated-in {
+    z-index: 0;
+  }
+
+  .owl-carousel .owl-animated-out {
+    z-index: 1;
+  }
+
+  .owl-carousel .fadeOut {
+    animation-name: fadeOut;
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .column1 {
+    float: left;
+    width: 70%;
+    padding: 10px;
+    height: 80%;
+  }
+
+  .column2 {
+    float: right;
+    width: 30%;
+    padding: 10px;
+    height: 500px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .second-box {
+    background-color: #435055;
+    width: 90%;
+    height: 400px;
+    border: 2px solid green;
+    margin: 20px;
+  }
+
+  .text-box2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .box-header {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .first-box {
+    background-color: lightgrey;
+    width: 450px;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 25px;
+    margin-left: 5%;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+
+  .button1 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 30%;
+  }
+
+  .button1:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button2 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 22%;
+  }
+
+  .button2:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button3 {
+    background-color: #5d0e0e;
+    color: white;
+    font-weight: bold;
+    margin-left: 25%;
+    border-radius: 25px;
+  }
+
+  .button3:hover {
+    background-color: #031319;
+    color: white;
+  }
+
+  .winners-photo {
+    border-radius: 30%;
+    width: 100%;
+    height: 300px;
+  }
+
+  .column-img {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 10%;
+  }
+
+  /* Clearfix (clear floats) */
+  .row-img::after {
+    content: "";
+    clear: both;
+    display: table;
+    margin-top: 20px;
+  }
+
+  .winners-photo {
+    border-radius: 50%;
+  }
+
+  .winners-name {
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .text-box1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .winners-name {
+    text-align: center;
+    margin-top: 10%;
+    color: #fc1616;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create three unequal columns that floats next to each other */
+  .column {
+    float: left;
+    padding: 10px;
+    height: 200px;
+    /* Should be removed. Only for demonstration */
+  }
+
+  .left,
+  .right {
+    width: 25%;
+    background-color: #031319;
+  }
+
+  .middle {
+    width: 50%;
+  }
+
+  /* Clear floats after the columns */
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 5%;
+    margin-top: 12%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .columna {
+    float: left;
+    width: 70%;
+    height: 100%;
+  }
+
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnb {
+    float: right;
+    width: 30%;
+    height: 100%;
+  }
+
+  .poster {
+    display: none;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .slidebox {
+    width: 10px;
+    height: 300px;
+  }
+
+  .slidebox img {
+    width: 10px;
+    height: 310px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+
+  /**
+* Owl Carousel v2.3.4
+* Copyright 2013-2018 David Deutsch
+* Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+*/
+  /*
+*  Owl Carousel - Core
+*/
+  .owl-carousel {
+    display: none;
+    width: 500px;
+    -webkit-tap-highlight-color: transparent;
+    /* position relative and z-index fix webkit rendering fonts issue */
+    position: relative;
+    z-index: 1;
+  }
+
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    /* fix firefox animation glitch */
+  }
+
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px);
+  }
+
+  .owl-carousel .owl-wrapper,
+  .owl-carousel .owl-item {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+  }
+
+  .owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+  }
+
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next,
+  .owl-carousel button.owl-dot {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+  }
+
+  .owl-carousel.owl-loaded {
+    display: block;
+  }
+
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block;
+  }
+
+  .owl-carousel.owl-hidden {
+    opacity: 0;
+  }
+
+  .owl-carousel.owl-refresh .owl-item {
+    visibility: hidden;
+  }
+
+  .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab;
+  }
+
+  .owl-carousel.owl-rtl {
+    direction: rtl;
+  }
+
+  .owl-carousel.owl-rtl .owl-item {
+    float: right;
+  }
+
+  /* No Js */
+  .no-js .owl-carousel {
+    display: block;
+  }
+
+  /*
+*  Owl Carousel - Animate Plugin
+*/
+  .owl-carousel .animated {
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+  }
+
+  .owl-carousel .owl-animated-in {
+    z-index: 0;
+  }
+
+  .owl-carousel .owl-animated-out {
+    z-index: 1;
+  }
+
+  .owl-carousel .fadeOut {
+    animation-name: fadeOut;
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .column1 {
+    float: left;
+    width: 70%;
+    padding: 10px;
+    height: 80%;
+  }
+
+  .column2 {
+    float: right;
+    width: 30%;
+    padding: 10px;
+    height: 500px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .second-box {
+    background-color: #435055;
+    width: 90%;
+    height: 400px;
+    border: 2px solid green;
+    margin: 20px;
+  }
+
+  .text-box2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .box-header {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .first-box {
+    background-color: lightgrey;
+    width: 590px;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 25px;
+    margin-left: 5%;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+
+  .button1 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 30%;
+  }
+
+  .button1:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button2 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 22%;
+  }
+
+  .button2:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button3 {
+    background-color: #5d0e0e;
+    color: white;
+    font-weight: bold;
+    margin-left: 25%;
+    border-radius: 25px;
+  }
+
+  .button3:hover {
+    background-color: #031319;
+    color: white;
+  }
+
+  .winners-photo {
+    border-radius: 30%;
+    width: 100%;
+    height: 300px;
+  }
+
+  .column-img {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 10%;
+  }
+
+  /* Clearfix (clear floats) */
+  .row-img::after {
+    content: "";
+    clear: both;
+    display: table;
+    margin-top: 20px;
+  }
+
+  .winners-photo {
+    border-radius: 50%;
+  }
+
+  .winners-name {
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .text-box1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .winners-name {
+    text-align: center;
+    margin-top: 10%;
+    color: #fc1616;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create three unequal columns that floats next to each other */
+  .column {
+    float: left;
+    padding: 10px;
+    height: 200px;
+    /* Should be removed. Only for demonstration */
+  }
+
+  .left,
+  .right {
+    width: 25%;
+    background-color: #031319;
+  }
+
+  .middle {
+    width: 50%;
+  }
+
+  /* Clear floats after the columns */
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 5%;
+    margin-top: 12%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .columna {
+    float: left;
+    width: 70%;
+    height: 100%;
+  }
+
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnb {
+    float: right;
+    width: 30%;
+    height: 100%;
+  }
+
+  .poster {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  body {
+    margin: 0;
+  }
+
+  .slidebox {
+    width: 100%;
+    height: 300px;
+  }
+
+  .slidebox img {
+    width: 10px;
+    height: 310px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+
+  /**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+  /*
+ *  Owl Carousel - Core
+ */
+  .owl-carousel {
+    display: none;
+    width: 600px;
+    -webkit-tap-highlight-color: transparent;
+    /* position relative and z-index fix webkit rendering fonts issue */
+    position: relative;
+    z-index: 1;
+  }
+
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    /* fix firefox animation glitch */
+  }
+
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px);
+  }
+
+  .owl-carousel .owl-wrapper,
+  .owl-carousel .owl-item {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+  }
+
+  .owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+  }
+
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next,
+  .owl-carousel button.owl-dot {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+  }
+
+  .owl-carousel.owl-loaded {
+    display: block;
+  }
+
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block;
+  }
+
+  .owl-carousel.owl-hidden {
+    opacity: 0;
+  }
+
+  .owl-carousel.owl-refresh .owl-item {
+    visibility: hidden;
+  }
+
+  .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab;
+  }
+
+  .owl-carousel.owl-rtl {
+    direction: rtl;
+  }
+
+  .owl-carousel.owl-rtl .owl-item {
+    float: right;
+  }
+
+  /* No Js */
+  .no-js .owl-carousel {
+    display: block;
+  }
+
+  /*
+ *  Owl Carousel - Animate Plugin
+ */
+  .owl-carousel .animated {
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+  }
+
+  .owl-carousel .owl-animated-in {
+    z-index: 0;
+  }
+
+  .owl-carousel .owl-animated-out {
+    z-index: 1;
+  }
+
+  .owl-carousel .fadeOut {
+    animation-name: fadeOut;
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .column1 {
+    float: left;
+    width: 70%;
+    padding: 10px;
+    height: 80%;
+  }
+
+  .column2 {
+    float: right;
+    width: 30%;
+    padding: 10px;
+    height: 500px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .second-box {
+    background-color: #435055;
+    width: 90%;
+    height: 400px;
+    border: 2px solid green;
+    margin: 20px;
+  }
+
+  .text-box2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .box-header {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .first-box {
+    background-color: lightgrey;
+    width: 700px;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 25px;
+    margin-left: 5%;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+
+  .button1 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 10%;
+  }
+
+  .button1:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button2 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 8%;
+  }
+
+  .button2:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button3 {
+    background-color: #5d0e0e;
+    color: white;
+    font-weight: bold;
+    margin-left: 30%;
+    border-radius: 25px;
+  }
+
+  .button3:hover {
+    background-color: #031319;
+    color: white;
+  }
+
+  .winners-photo {
+    border-radius: 30%;
+    width: 100%;
+    height: 300px;
+  }
+
+  .column-img {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 10%;
+  }
+
+  /* Clearfix (clear floats) */
+  .row-img::after {
+    content: "";
+    clear: both;
+    display: table;
+    margin-top: 20px;
+  }
+
+  .winners-photo {
+    border-radius: 50%;
+  }
+
+  .winners-name {
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .text-box1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .winners-name {
+    text-align: center;
+    margin-top: 10%;
+    color: #fc1616;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create three unequal columns that floats next to each other */
+  .column {
+    float: left;
+    padding: 10px;
+    height: 200px;
+    /* Should be removed. Only for demonstration */
+  }
+
+  .left,
+  .right {
+    width: 25%;
+    background-color: #031319;
+  }
+
+  .middle {
+    width: 50%;
+  }
+
+  /* Clear floats after the columns */
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 5%;
+    margin-top: 12%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .columna {
+    float: left;
+    width: 70%;
+    height: 100%;
+  }
+
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnb {
+    float: right;
+    width: 30%;
+    height: 100%;
+  }
+
+  .poster {
+    display: none;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  body {
+    margin: 0;
+  }
+
+  .slidebox {
+    width: 100%;
+    height: 300px;
+  }
+
+  .slidebox img {
+    width: 10px;
+    height: 310px;
+    margin-left: 10px;
+    border-radius: 5px;
+  }
+
+  /**
+ * Owl Carousel v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+  /*
+ *  Owl Carousel - Core
+ */
+  .owl-carousel {
+    display: none;
+    width: 800px;
+    -webkit-tap-highlight-color: transparent;
+    /* position relative and z-index fix webkit rendering fonts issue */
+    position: relative;
+    z-index: 1;
+  }
+
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    /* fix firefox animation glitch */
+  }
+
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px);
+  }
+
+  .owl-carousel .owl-wrapper,
+  .owl-carousel .owl-item {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+  }
+
+  .owl-carousel .owl-item {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+  }
+
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none;
+  }
+
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next,
+  .owl-carousel button.owl-dot {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+  }
+
+  .owl-carousel.owl-loaded {
+    display: block;
+  }
+
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block;
+  }
+
+  .owl-carousel.owl-hidden {
+    opacity: 0;
+  }
+
+  .owl-carousel.owl-refresh .owl-item {
+    visibility: hidden;
+  }
+
+  .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab;
+  }
+
+  .owl-carousel.owl-rtl {
+    direction: rtl;
+  }
+
+  .owl-carousel.owl-rtl .owl-item {
+    float: right;
+  }
+
+  /* No Js */
+  .no-js .owl-carousel {
+    display: block;
+  }
+
+  /*
+ *  Owl Carousel - Animate Plugin
+ */
+  .owl-carousel .animated {
+    animation-duration: 1000ms;
+    animation-fill-mode: both;
+  }
+
+  .owl-carousel .owl-animated-in {
+    z-index: 0;
+  }
+
+  .owl-carousel .owl-animated-out {
+    z-index: 1;
+  }
+
+  .owl-carousel .fadeOut {
+    animation-name: fadeOut;
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .column1 {
+    float: left;
+    width: 70%;
+    padding: 10px;
+    height: 80%;
+  }
+
+  .column2 {
+    float: right;
+    width: 30%;
+    padding: 10px;
+    height: 500px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .second-box {
+    background-color: #435055;
+    width: 90%;
+    height: 400px;
+    border: 2px solid green;
+    margin: 20px;
+  }
+
+  .text-box2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .box-header {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+  }
+
+  .first-box {
+    background-color: lightgrey;
+    width: 90%;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 25px;
+    margin-left: 7%;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+
+  .button1 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 10%;
+  }
+
+  .button1:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button2 {
+    background-color: #031319;
+    color: white;
+    font-weight: bold;
+    margin-left: 8%;
+  }
+
+  .button2:hover {
+    background-color: #5d0e0e;
+    color: white;
+  }
+
+  .button3 {
+    background-color: #5d0e0e;
+    color: white;
+    font-weight: bold;
+    margin-left: 30%;
+    border-radius: 25px;
+  }
+
+  .button3:hover {
+    background-color: #031319;
+    color: white;
+  }
+
+  .winners-photo {
+    border-radius: 30%;
+    width: 100%;
+    height: 300px;
+  }
+
+  .column-img {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border-radius: 50%;
+    margin-top: 10%;
+  }
+
+  /* Clearfix (clear floats) */
+  .row-img::after {
+    content: "";
+    clear: both;
+    display: table;
+    margin-top: 20px;
+  }
+
+  .winners-photo {
+    border-radius: 50%;
+  }
+
+  .winners-name {
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .text-box1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .winners-name {
+    text-align: center;
+    margin-top: 10%;
+    color: #fc1616;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create three unequal columns that floats next to each other */
+  .column {
+    float: left;
+    padding: 10px;
+    height: 200px;
+    /* Should be removed. Only for demonstration */
+  }
+
+  .left,
+  .right {
+    width: 25%;
+    background-color: #031319;
+  }
+
+  .middle {
+    width: 50%;
+  }
+
+  /* Clear floats after the columns */
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .ecc {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  }
+
+  .header-buttons {
+    font-size: 20px;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .columnh {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  /* Clear floats after the columns */
+
+  .rowh:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnlogo {
+    float: right;
+    margin-right: 5%;
+    margin-top: 12%;
+    color: #fefefe;
+    /* width: 30%; */
+  }
+
+  .columna {
+    float: left;
+    width: 70%;
+    height: 100%;
+  }
+
+  .rowb:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .columnb {
+    float: right;
+    width: 30%;
+    height: 100%;
+  }
+
+  .poster {
+    display: none;
+  }
+}
+
+.li {
+  color: white;
+  text-decoration: none;
+}
+
+.li:hover {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+}
+
+.carousel {
+  background: white;
+  margin-top: 20px;
+}
+
+.carousel-item {
+  text-align: center;
+  height: 350px;
+  width: 100%;
+  /* Prevent carousel from being distorted if for some reason image doesn't load */
+}

@@ -1,0 +1,1961 @@
+ /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    * {
+        box-sizing: border-box;
+      }
+      
+      /* Create two equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 80%;
+        padding: 10px;
+        height: 400px; /* Should be removed. Only for demonstration */
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      /*second*/
+      
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+      }
+      
+      html {
+        box-sizing: border-box;
+      }
+      
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      
+      .column1 {
+        float: left;
+        width: 25%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+      
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        margin: 8px;
+      }
+      
+      .about-section {
+        padding: 50px;
+        text-align: center;
+        background-color: #474e5d;
+        color: white;
+      }
+      
+      .container {
+        padding: 0 16px;
+      }
+      
+      .container::after, .row1::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .title {
+        color: grey;
+      }
+      
+      .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+      }
+      
+      .button:hover {
+        background-color: #555;
+      }
+      
+      @media screen and (max-width: 650px) {
+        .column1 {
+          width: 100%;
+          display: block;
+        }
+      }
+      .video{
+        margin-top: 40%;
+       margin-left: 30%;
+      }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    * {
+        box-sizing: border-box;
+      }
+      
+      /* Create two equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 50%;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+        
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      /*second*/
+      
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+      }
+      
+      html {
+        box-sizing: border-box;
+      }
+      
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      
+      .column1 {
+        float: left;
+        width: 25%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+      
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        margin: 8px;
+      }
+      
+      .about-section {
+        padding: 50px;
+        text-align: center;
+        background-color: #474e5d;
+        color: white;
+      }
+      
+      .container {
+        padding: 0 16px;
+      }
+      
+      .container::after, .row1::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .title {
+        color: grey;
+      }
+      
+      .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+      }
+      
+      .button:hover {
+        background-color: #555;
+      }
+      
+      @media screen and (max-width: 650px) {
+        .column1 {
+          width: 100%;
+          display: block;
+        }
+      }
+      #team
+      {
+        margin-top: 20%;
+      }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  #team
+  {
+    margin-top: 40%;
+  }
+    * {
+        box-sizing: border-box;
+      }
+      
+    /* Create two equal columns that floats next to each other */
+  .env
+   {
+
+    width:70%; height: 580px;margin-left:30%;margin-top: 10%;
+   }  
+      /*second*/
+      
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+      }
+      
+      html {
+        box-sizing: border-box;
+      }
+      
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      
+      .column1 {
+        float: left;
+        width: 25%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+      
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        margin: 8px;
+      }
+      
+      .about-section {
+        padding: 50px;
+        text-align: center;
+        background-color: #474e5d;
+        color: white;
+      }
+      
+      .container {
+        padding: 0 16px;
+      }
+      
+      .container::after, .row1::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .title {
+        color: grey;
+      }
+      
+      .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+      }
+      
+      .button:hover {
+        background-color: #555;
+      }
+      
+      @media screen and (max-width: 650px) {
+        .column1 {
+          width: 100%;
+          display: block;
+        }
+      }
+      #team
+      {
+        margin-top: 45%;
+      }
+      
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    * {
+        box-sizing: border-box;
+      }
+     
+      /* Create two equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 50%;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      /*Second*/
+      
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+      }
+      
+      html {
+        box-sizing: border-box;
+      }
+      
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      
+      .column1 {
+        float: left;
+        width: 25%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+      
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        margin: 8px;
+      }
+      
+      .about-section {
+        padding: 50px;
+        text-align: center;
+        background-color: #474e5d;
+        color: white;
+      }
+      
+      .container {
+        padding: 0 16px;
+      }
+      
+      .container::after, .row1::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .title {
+        color: grey;
+      }
+      
+      .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+      }
+      
+      .button:hover {
+        background-color: #555;
+      }
+      
+      @media screen and (max-width: 650px) {
+        .column1 {
+          width: 100%;
+          display: block;
+        }
+      }
+      #team
+      {
+        margin-top: 35%;
+      }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .teacher
+  {
+    width: 100%;
+    height: 4%;
+  }
+
+    * {
+        box-sizing: border-box;
+      }
+      
+      /* Create two equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 50%;
+        padding: 10px;
+        height: 630px; /* Should be removed. Only for demonstration */
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      .video
+      {
+          width:50%;
+          height:90%;
+          margin-left: 10%;
+      }
+
+
+
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+      }
+      
+      html {
+        box-sizing: border-box;
+      }
+      
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      
+      .column1 {
+        float: left;
+        width: 25%;
+        margin-bottom: 16px;
+        padding: 0 8px;
+      }
+      
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        margin: 8px;
+        
+      }
+      
+      .about-section {
+        padding: 50px;
+        text-align: center;
+        background-color: #474e5d;
+        color: white;
+      }
+      
+      .container {
+        padding: 0 16px;
+      }
+      
+      .container::after, .row1::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .title {
+        color: grey;
+      }
+      
+      .button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+      }
+      
+      .button:hover {
+        background-color: #555;
+      }
+      
+      @media screen and (max-width: 650px) {
+        .column1 {
+          width: 100%;
+          display: block;
+        }
+      
+   }
+   #team
+   {
+     margin-top: 3%;
+   }
+   .env
+   {
+
+    width:70%; height: 580px;margin-left:30%;margin-top: 10%;
+   }
+}
+
+
+/*Text inside envelope*/
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .containerr {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+  .top-left {
+    position: absolute;
+    top: 180px;
+    left: 266px;
+  }
+  .top-left {
+    position: absolute;
+    top: 100px;
+    left: 266px;
+  }
+  .top-left {
+    position: absolute;
+    top: 110px;
+    left: 55px;
+    font-size: 18px;
+  }
+  .h1
+  {
+    font-weight: bold;font-size: 15px;
+    margin-top: -20px;
+  }
+
+  .h2
+  {
+    font-weight: bold;font-size: 15px;
+
+  }
+  .para1{
+width: 80%;
+font-size: 15px;
+  }
+  .para2
+  {
+width: 80%;
+font-size: 15px;
+margin-left: 10%;
+  }
+.env{
+  width: 100%;
+  margin-left: 10%;
+  height: 550px;
+}
+#team
+  {
+    margin-top:-70px;
+  }
+  .video{
+    margin-top: 50%;
+    width: 70%;
+    height: 200px;
+  }
+  #team
+  {
+    margin-top: 5%;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .containerr {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+  .top-left {
+    position: absolute;
+    
+    left: 266px;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 60px;
+    left: 106px;
+  }
+  .top-left {
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    font-size: 18px;
+  }
+  .h1
+  {
+    font-weight: bold;font-size: 15px;
+   
+  }
+
+  .h2
+  {
+    font-weight: bold;font-size: 15px;
+
+  }
+  .para1{
+width: 80%;
+font-size: 15px;
+  }
+  .para2
+  {
+width: 80%;
+font-size: 15px;
+  }
+  .env
+  {
+    width: 100%;
+    height: 540px;
+    margin-left: 20px;
+  }
+  #team
+  {
+    margin-top: 46%;
+  }
+  .video{
+    margin-top: 90%;
+   
+  }
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .containerr {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  #team
+  {
+    margin-top:90px;
+  }
+  .top-left {
+    position: absolute;
+    top: 180px;
+    left: 266px;
+  }
+  .top-left {
+    position: absolute;
+    top: 150px;
+    left: 70px;
+    font-size: 18px;
+  }
+  .h1
+  {
+    font-weight: bold;font-size: 17px;
+    margin-top: -4%;
+  }
+
+  .h2
+  {
+    font-weight: bold;font-size: 17px;
+
+  }
+  .para1{
+width: 80%;
+font-size: 15px;
+  }
+  .para2
+  {
+width: 80%;
+font-size: 15px;
+
+  }
+  #team
+      {
+        margin-top: 35%;
+      }
+      .video{
+        margin-top: 50%;
+       
+      }
+      .video{
+        margin-top: 55%;
+        width: 70%;
+        height: 200px;
+      }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .containerr {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+  .top-left {
+    position: absolute;
+    top: 180px;
+    left: 266px;
+  }
+  .top-left {
+    position: absolute;
+    top: 190px;
+    left: 150px;
+    font-size: 18px;
+  }
+  .h1
+  {
+    font-weight: bold;font-size: 18px;
+    margin-top: -4%;
+  }
+
+  .h2
+  {
+    font-weight: bold;font-size: 18px;
+width:80%
+  }
+  .para1{
+    width: 80%;
+    
+    padding-left: -10px;
+      }
+      .para2
+      {
+    width: 80%;
+    padding-left: 30px;
+      }
+      .env{
+        width: 80%;
+       margin-left: 20%;
+        height: 600px;
+      }
+      #team
+      {
+        margin-top: 35%;
+      }
+      .video{
+        margin-top: 55%;
+        width: 70%;
+        height: 200px;
+      }
+      #team
+      {
+        margin-top: 40%;
+      }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  .containerr {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+  .top-left {
+    position: absolute;
+    top: 15%;
+    left: 150px;
+    font-size: 18px;
+   
+  }
+  .h1
+  {
+    font-weight: bold;font-size: 20px;
+    margin-top: 18%;
+    margin-left: -11%;
+  }
+
+  .h2
+  {
+    font-weight: bold;font-size: 20px;
+width: 80%;
+  }
+  .para1{
+width: 60%;
+
+padding-left: 90px;
+  }
+  .para2
+  {
+width: 70%;
+padding-left: 90px;
+  }
+  .env{
+    width: 70%;
+   margin-right: 40%;
+    height: 590px;
+  }
+  #team
+      {
+        margin-top: 5%;
+      }
+      .video{
+        margin-top: 20%;
+        width: 70%;
+        height: 50%;
+      }
+}
+
+
+/*header and footer css*/
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 20px 20px;
+    padding-left: 35%;
+    padding-right: 35%;
+  
+  }
+  
+  .header-buttons{
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  
+  }
+  .header1{
+  text-align: center;
+  }
+  * {box-sizing: border-box;}
+  
+  body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* second header */
+      
+          .columnlogo {
+              padding-left: -30%;
+              text-align: left;
+              padding-right: -30%;
+              color: #fefefe;
+              font-size:30px;
+              /* width: 30%; */
+          }
+          
+  .fa-whatsapp {
+  color:green;
+  margin-left:50%;
+  font-size: 200%;
+  padding-bottom: -15%;
+  
+  }
+  .fa-phone{
+  
+  color:white;
+  margin-left:50%;
+  font-size: 200%;
+  margin-top: -15%;
+  }
+  .columnha{
+      margin-left:12%;
+  
+  }
+  
+  .rowh{
+      padding-left: 17%;
+  }
+  
+  * {
+    box-sizing: border-box;
+    
+  }
+  
+  /* footer */
+  footer{ background-color: #04131a;
+  padding-top: 2%;} 
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 10%;
+  }
+  
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding-bottom:9%;
+   
+  }
+  .column-footer a.left-footer-links{
+  padding-left:20%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .column-footer a.right-footer-links{
+  padding-left:30%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 2%;
+  }
+  .fa:hover {
+      opacity: 0.7;
+      text-align:center;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+    
+  
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+    
+  }
+  .fa-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    font-size: 30px;
+    
+  }
+  .icon-footer{
+  margin-left:30%;
+  }
+  
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {  
+    .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  
+  }
+  
+  .header-buttons{
+  font-size: 20px;
+  color: white;
+  }
+  * {box-sizing: border-box;}
+  
+  body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  * {
+    box-sizing: border-box;
+    
+  }
+  .columnh {
+              float: left;
+              width: 50%;
+              height: 100%;
+          }
+          /* Clear floats after the columns */
+          
+          .rowh:after {
+              content: "";
+              display: table;
+              clear: both;
+          }
+          
+          
+  .columnlogo {
+              padding-left: -25%;
+              text-align: left;
+              color: #fefefe;
+              font-size:14px;
+              padding-top: 12%;
+        font-weight: bold;
+              /* width: 30%; */
+          }
+          
+  .fa-whatsapp {
+  color:green;
+  margin-left:100%;
+  font-size: 200%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+  }
+  .fa-phone{
+  color:white;
+  margin-left:40%;
+  font-size: 200%;
+  margin-top: -15%;
+  }
+  
+  .columnha{
+      margin-left:60%;
+      
+  }
+  .rowh{
+      padding-left: 0%;
+  }
+  .columnh {
+              float: left;
+              width: 50%;
+              height: 100%;
+          }
+          /* Clear floats after the columns */
+          
+          .rowh:after {
+              content: "";
+              display: table;
+              clear: both;
+          }
+          
+          .columnlogo {
+              float: right;
+              margin-right: 7%;
+              margin-top: 10%;
+              color: #fefefe;
+              /* width: 30%; */
+          }
+  
+  /* footer */
+  footer{ background-color: #04131a;
+  padding-top: 2%;
+  height: 240px;
+  }
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+  
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column-footer a.left-footer-links{
+  padding-left:15%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .column-footer a.right-footer-links{
+  padding-left:55%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+  .fa:hover {
+      opacity: 0.7;
+      text-align:center;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+    
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+    
+  }
+  .fa-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    font-size: 30px;
+    
+  }
+  .icon-footer{
+  margin-left:27%;
+  }
+  
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  
+  }
+  
+  .header-buttons{
+  font-size: 20px;
+  color: white;
+  }
+  * {box-sizing: border-box;}
+  
+  body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  * {
+    box-sizing: border-box;
+    
+  }
+  
+  .columnh {
+              float: left;
+              width: 50%;
+              height: 100%;
+          }
+          /* Clear floats after the columns */
+          
+          .rowh:after {
+              content: "";
+              display: table;
+              clear: both;
+          }
+          
+          .columnlogo {
+              float: right;
+              margin-right: 7%;
+              margin-top: 10%;
+              color: #fefefe;
+              /* width: 30%; */
+          }
+  
+  .logo{
+  margin-left:20%;
+  }
+  
+  
+  .columnlogo {
+              padding-left: -30%;
+              text-align: left;
+              padding-right: -30%;
+              color: #fefefe;
+              font-size:20px;
+        padding-top: 5%
+              /* width: 30%; */
+          }
+          
+  .fa-whatsapp {
+  color:green;
+  margin-left:100%;
+  font-size: 200%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+  }
+  .fa-phone{
+  color:white;
+  margin-left:50%;
+  font-size: 200%;
+  margin-top: -15%;
+  }
+  
+  .columnha{
+      margin-left:70%;
+      
+  }
+  .rowh{
+      padding-left: 2%;
+  }
+  
+  /* footer */
+  footer{ background-color: #04131a;
+  padding-top: 2%;
+  height: 240px;
+  }
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+  
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+   
+  }
+  .column-footer a.left-footer-links{
+  padding-left:15%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .column-footer a.right-footer-links{
+  padding-left:58%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+  .fa:hover {
+      opacity: 0.7;
+      text-align:center;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+    
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+    
+  }
+  .fa-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    font-size: 30px;
+    
+  }
+  .icon-footer{
+  margin-left:32%;
+  }
+  
+  
+  
+  }
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  
+  }
+  
+  .header-buttons{
+  font-size: 20px;
+  color: white;
+  }
+  * {box-sizing: border-box;}
+  
+  body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  * {
+    box-sizing: border-box;
+    
+  }
+  .columnha{
+      margin-left:12%;
+      
+  }
+  .rowh{
+      padding-left: 17%;
+  }
+  * {
+    box-sizing: border-box;
+    
+  }
+  
+  .columnh {
+              float: left;
+              width: 50%;
+              height: 100%;
+          }
+          /* Clear floats after the columns */
+          
+          .rowh:after {
+              content: "";
+              display: table;
+              clear: both;
+          }
+          
+  
+  
+  .ecc{
+  color:white;
+  font-size:30px;
+  font-weight:bold;
+  padding-top:15%;
+  }
+  .columnlogo {
+              padding-left: -30%;
+              text-align: left;
+              padding-right: -30%;
+              color: #fefefe;
+              font-size:27px;
+              /* width: 30%; */
+          }
+          
+  .fa-whatsapp {
+  color:green;
+  margin-left:100%;
+  font-size: 200%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+  }
+  .fa-phone{
+  color:white;
+  margin-left:50%;
+  font-size: 200%;
+  margin-top: -15%;
+  }
+  .columnha{
+      margin-left:70%;
+      
+  }
+  .rowh{
+      padding-left: 5%;
+  }
+  
+  
+  /* footer */
+  footer{ background-color: #04131a;
+  padding-top: 2%;
+  height: 240px;
+  }
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+  
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+   
+  }
+  .column-footer a.left-footer-links{
+  padding-left:15%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .column-footer a.right-footer-links{
+  padding-left:65%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+  .fa:hover {
+      opacity: 0.7;
+      text-align:center;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+    
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+    
+  }
+  .fa-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    font-size: 30px;
+    
+  }
+  .icon-footer{
+  margin-left:32%;
+  }
+  
+  }
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .inverse {
+    overflow: hidden;
+    background-color: #5d0f0f;
+    padding: 10px 10px;
+  
+  }
+  
+  .header-buttons{
+  font-size: 20px;
+  color: white;
+  }
+  * {box-sizing: border-box;}
+  
+  body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  * {
+    box-sizing: border-box;
+    
+  }
+  .columnha{
+      margin-left:12%;
+      
+  }
+  .rowh{
+      padding-left: 17%;
+  }
+  * {
+    box-sizing: border-box;
+    
+  }
+  
+  .columnh {
+              float: left;
+              width: 50%;
+              height: 100%;
+          }
+          /* Clear floats after the columns */
+          
+          .rowh:after {
+              content: "";
+              display: table;
+              clear: both;
+          }
+  
+  .ecc{
+  color:white;
+  font-size:30px;
+  font-weight:bold;
+  padding-top:15%;
+  }
+  .columnlogo {
+              padding-left: -30%;
+              text-align: left;
+              padding-right: -30%;
+              color: #fefefe;
+              font-size:30px;
+  padding-top:2%;
+              /* width: 30%; */
+          }
+          
+  .fa-whatsapp {
+  color:green;
+  margin-left:100%;
+  font-size: 200%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+  }
+  .fa-phone{
+  color:white;
+  margin-left:50%;
+  font-size: 200%;
+  margin-top: -25%;
+  }
+  .columnha{
+      margin-left:75%;
+      
+  }
+  .rowh{
+      padding-left: 7%;
+  }
+  
+  
+  /* footer */
+  footer{ background-color: #04131a;
+  padding-top: 2%;
+  height: 240px;
+  }
+  .column-footer {
+    float: left;
+    width: 50%;
+    height: 6%;
+  }
+  
+  .row-footer:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+   
+  }
+  .column-footer a.left-footer-links{
+  padding-left:15%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .column-footer a.right-footer-links{
+  padding-left:65%;
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  line-height: 2;
+  }
+  .fa {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 48px;
+    border-radius: 50%;
+    margin-left: 8%;
+  }
+  .fa:hover {
+      opacity: 0.7;
+      text-align:center;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15%;
+    
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 30px;
+    
+  }
+  .fa-instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    font-size: 30px;
+    
+  }
+  .icon-footer{
+  margin-left:32%;
+  }
+  
+  }
+  /*header*/
+   /*header*/
+  /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  #logo
+  {
+      width:30%;
+      margin-left: 0%;
+  }
+  .fa-whatsapp  {
+      color:#fff;
+      background:
+      linear-gradient(#25d366,#25d366)10px 84%/10px 15px no-repeat,
+      radial-gradient(#25d366 60%,transparent 0);
+      margin-left: -30px;
+      margin-top: 15px;
+    }
+    #name
+    {
+      
+      font-size: 18px;
+      width: 50%;
+      margin-top: 13%;
+    }
+    #btn1
+    {
+      margin-left: 25%;
+    }
+    #call
+    {
+     
+     margin-left:45%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  #call
+ {
+  
+  margin-left: 175px;
+ }
+  #logo
+  {
+      width:10%;
+      margin-left: 5%;
+  }
+  .fa-whatsapp  {
+      color:#fff;
+      background:
+      linear-gradient(#25d366,#25d366)10px 84%/10px 15px no-repeat,
+      radial-gradient(#25d366 60%,transparent 0);
+      margin-left: 90px;
+    }
+    #name
+    {
+      margin-top: 4%;
+      font-size: 200%;
+    }
+    #btn1
+    {
+      margin-left: 50%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+ #call
+ {
+  
+  margin-left: 90%;
+ }
+  #logo
+  {
+      width:10%;
+      margin-left: 5%;
+  }
+  .fa-whatsapp  {
+      color:#fff;
+      background:
+      linear-gradient(#25d366,#25d366)10px 84%/10px 15px no-repeat,
+      radial-gradient(#25d366 60%,transparent 0);
+      margin-left: 140px;
+    }
+    #name
+    {
+      margin-top: 4%;
+      font-size: 200%;
+      
+    }
+    #btn1
+    {
+      margin-left: 60%;
+    }
+   
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  #call
+  {
+   
+   margin-left: 48%;
+  }
+  #logo
+  {
+      width:10%;
+      margin-left: 5%;
+  }
+  .fa-whatsapp  {
+      color:#fff;
+      background:
+      linear-gradient(#25d366,#25d366)10px 84%/10px 15px no-repeat,
+      radial-gradient(#25d366 60%,transparent 0);
+      margin-left: -30px;
+    }
+    #name
+    {
+      margin-top: 4%;
+      font-size: 200%;
+    }
+    #btn1
+    {
+      margin-left: 70%;
+    }
+    #icon1
+    {
+margin-left: 400px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  #call
+ {
+  
+  margin-left: 48%;
+ }
+  #logo
+  {
+      width:10%;
+      margin-left: 5%;
+  }
+  .fa-whatsapp  {
+      color:#fff;
+      background:
+      linear-gradient(#25d366,#25d366)10px 84%/10px 15px no-repeat,
+      radial-gradient(#25d366 60%,transparent 0);
+      
+      
+    }
+    #name
+    {
+      margin-top: 4%;
+      font-size: 200%;
+    }
+    #btn1
+    {
+      margin-left: 70%;
+    }
+    #icon1
+    {
+margin-left: 600px;
+    }
+   
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .columnf {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height:140px;
+    padding-left: 20%; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .rowf:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #btn1:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn2:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn3:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  
+
+  #btn1,#btn2,#btn3
+  {
+    background-color:  #5d0f0f;color: white;
+  }
+  
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .columnf {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height:140px;
+    padding-left: 20%; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .rowf:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #btn1:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn2:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn3:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  
+
+  #btn1,#btn2,#btn3
+  {
+    background-color:  #5d0f0f;color: white;
+  }
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .columnf {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height:140px; 
+    padding-left: 20%;/* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .rowf:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  #btn1:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn2:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn3:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  
+
+  #btn1,#btn2,#btn3
+  {
+    background-color:  #5d0f0f;color: white;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .columnf {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height:140px; /* Should be removed. Only for demonstration */
+    padding-left: 20%;
+  }
+  
+  /* Clear floats after the columns */
+  .rowf:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .columnf {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height:140px; /* Should be removed. Only for demonstration */
+    padding-left: 20%;
+  }
+  
+  /* Clear floats after the columns */
+  .rowf:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  #btn1:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn2:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  #btn3:hover
+  {
+    background-color:white;
+    color:black;
+  }
+  
+
+  #btn1,#btn2,#btn3
+  {
+    background-color:  #5d0f0f;color: white;
+  }
+
+}
+
+
