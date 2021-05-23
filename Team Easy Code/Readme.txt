@@ -1,4 +1,6 @@
 Team EasyCode
+Heroku app Website Link : https://easycodeclasses.herokuapp.com/
+Demo Video Link: https://youtu.be/Xg0HdOmoYpA
 
 Info:
 1) Open Website/index.php
