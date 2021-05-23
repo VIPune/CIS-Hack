@@ -1,5 +1,5 @@
-**Team** : HellionCoders
-**Title** : Guiding Your Way...
+Team : HellionCoders
+Title : Guiding Your Way...
 Our Idea: 
 While studying in college we come across many subjects which are new to us and while searching the medium where we can learn those subject .It becomes difficult to find one source on which one can rely on for the course subject . 
 and  Another problem student face is to find the college according to their eligibility for further studies. Usually Students find college by asking their relatives, friends, merit list but this creates confusion as everyone has their own opinion. As there are many parameters in merit list and the data is very large in those list to search the colleges according to our eligibility. 
