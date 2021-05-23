@@ -1,0 +1,56 @@
+{% extends 'headerPage.html' %}
+{% load  static  %}
+{% block content%}
+<style>
+    html{
+       background-image: url(https://assets.hongkiat.com/uploads/wood-textures/brown-wood.jpg) 
+
+       
+    }
+</style>
+<div style="background-color: white; width: 30%; margin: 170px auto; border-radius: 10px;">
+
+    <h2 style="text-align: center;padding-top: 7px;">Upload your X-RAY here </h2>
+
+
+    <br>
+
+    <form method="post" enctype="multipart/form-data" action="predictImage" style="text-align: center" >
+
+        {% csrf_token %}
+        <label>
+        <img src="https://upload.photobox.com/images/icon_service_instagram_10.a.png" style="margin-left:0px ;border-radius: 7px; ">
+        <input name="filePath" type="file" style="margin-left: 140px; display: none;"><br><br>
+
+        </label>
+        <br>
+
+
+        <input type="submit" value="Submit" style="color: white;
+        background-color:#010b11;
+        width: 50%;
+        margin-bottom: 5%;
+        padding: 10px 6px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;"></div>
+    </form>
+ 
+    <br>
+
+</div>
+
+
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+/*<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*/
