@@ -19,6 +19,7 @@ Following are the navigations for:
 * website/ - contains the code of the website
 * app/ - contains the apk file of the app
 * video/ - contains the video of working of the whole project
+* media/ - conatins banner image and results
 
 <h2>Steps to Install and Run the Project</h2>
 For the project to work, the website and the app have to work simultaneously.
@@ -34,8 +35,8 @@ App can be installed with the help of the APK file which is present inside the a
 The subtopic which was chosen in the website has to be chosen in the app as well, after which a scanner will get opened. On scanning the images from the website with the help of the app scanner, 3D models of images will get Augmented on them and thus will be seen through the app. A tutorial about how to use the app is also provided in the app itself. 
 
 <h2>Results</h2>
-<img src="media/Yatch.png" alt="My cool logo"/>
-<img src="media/Skeleton.png" alt="My cool logo"/>
+<img src="media/Yatch.jpg" alt="My cool logo" width="200" height="400" />
+<img src="media/Skeleton.jpg" alt="My cool logo" width="200" height="400"/>
 
 <h2>About the Team</h2>
 All the members of Team Inferno are students of Second Year Information Technology Department of Vishwakarma Institute of Technology, Pune.
