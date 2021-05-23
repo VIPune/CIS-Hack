@@ -11,7 +11,7 @@
 <br>
 [Link to Presentation on Drive](https://docs.google.com/presentation/d/1nWtrdSF2JBvNiSdQ1yEyhhl6wvd-6qJfagQac2nQP8g/edit?usp=sharing)
 <br>
-[Project Hosted on Glitch](https://edugain-oxcode.glitch.me/)
+[Project Hosted on Glitch](https://edugain-oxcode.glitch.me/) (Glitch takes a bit of time in loading projects so please wait for it to load)
 
 ## Project Idea
 
