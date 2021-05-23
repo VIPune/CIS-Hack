@@ -1,0 +1,41 @@
+we have created the complete website but there are some environment issues at the time of hosting so that we are unable to host it so view our site on meet
+##Team : HellionCoders
+##Title : Guiding Your Way...
+##Our Idea: 
+While studying in college we come across many subjects which are new to us and while searching the medium where we can learn those subject .It becomes difficult to find one source on which one can rely on for the course subject . 
+and  Another problem student face is to find the college according to their eligibility for further studies. Usually Students find college by asking their relatives, friends, merit list but this creates confusion as everyone has their own opinion. As there are many parameters in merit list and the data is very large in those list to search the colleges according to our eligibility. 
+we are willing to solve these problems faced by students through this Hackathon.
+
+##Solution:
+We have come up with a solution that is Quality Study Content Finder which will help students to find data, videos related to their syllabus easily without any hassle of searching and viewing each and every content from internet and also after their course completion instead of searching and sorting manually in the merit list , students will be able to find the colleges based on their eligibilities just in one click.
+
+
+##The contents of your project directory:
+/static  : contains all the static files of the webapplication
+/templates : contains all the html pages/templates
+README.md : defined complete steps to run application on localhost
+app.py : contains the flask app file which is main server file
+requirements.txt : required python packages with their specified versions 
+
+
+##Ways to host our project on the localhost:
+
+#Local deployment
+This application can be deployed locally. On windows, install git and clone the repository:
+
+git clone https://github.com/GauravPPawar/CIS-Hack.git
+cd CIS-Hack/HellionCoders/GuidingYourWay
+
+Install the dependencies:
+
+pip install flask
+
+
+and start the application:
+
+python app.py
+...
+* Running on http://localhost:5000/ (Press CTRL+C to quit)
+View the website in the browser. The test script can also be used to test the website:
+
+Your application will be running on http://localhost:5000/
