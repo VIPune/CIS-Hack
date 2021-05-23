@@ -21,7 +21,7 @@ and start the application:
 ```
 python app.py
 ...
-* Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+* Running on http://localhost:5000/ (Press CTRL+C to quit)
 ```
 
 View the website in the browser.  The test script can also be used to test the website:
