@@ -17,6 +17,10 @@ We use a number of open source projects to work:
 - [Opacus] - Framework for differential privacy
 - [Pytorch] - Open source ML framework
 
+##Results
+
+We have been able to implement an encrypted Regression model which performs very well, just shaving off 4% acc vs the plaintext model.
+
 ## Team
 
 - Jatan Loya
