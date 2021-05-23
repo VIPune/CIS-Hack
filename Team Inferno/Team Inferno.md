@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="My cool logo"/>
+<img src="media/Banner.png" alt="My cool logo"/>
 <h1>ModAR - Revolutionizing the way</h1>
 <h2>Problem Statement</h2>
 <p>Lack of imagination among all classes of students in online as well as in offline learning due to traditional methods of textbooks and online notes. Various topics of every subject cannot be given justice to by observing their 2-D diagrams. </p>
@@ -21,7 +21,7 @@ Following are the navigations for:
 * video/ - contains the video of working of the whole project
 
 <h2>Steps to Install and Run the Project</h2>
-In order for the project to work, the website and the app have to work simulataneously.
+For the project to work, the website and the app have to work simultaneously.
 
 <h4>Website</h2>
 Link - https://nirvisha82.github.io/ModAR---Revolutionizing-the-way-of-teaching/Home.html  
@@ -34,6 +34,8 @@ App can be installed with the help of the APK file which is present inside the a
 The subtopic which was chosen in the website has to be chosen in the app as well, after which a scanner will get opened. On scanning the images from the website with the help of the app scanner, 3D models of images will get Augmented on them and thus will be seen through the app. A tutorial about how to use the app is also provided in the app itself. 
 
 <h2>Results</h2>
+<img src="media/Yatch.png" alt="My cool logo"/>
+<img src="media/Skeleton.png" alt="My cool logo"/>
 
 <h2>About the Team</h2>
 All the members of Team Inferno are students of Second Year Information Technology Department of Vishwakarma Institute of Technology, Pune.
