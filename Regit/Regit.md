@@ -21,6 +21,7 @@ We use a number of open source projects to work:
 
 We have been able to implement an encrypted Regression model which performs very well, just shaving off 4% acc vs the plaintext model.
 
+Colab Link: https://colab.research.google.com/drive/1DzqSIne3s0p5mXZha8wLoqVE7FchCdyN?usp=sharing
 ## Team
 
 - Jatan Loya
