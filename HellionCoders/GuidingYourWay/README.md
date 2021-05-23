@@ -1,29 +1,31 @@
-# README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This application is intended for demo use only.
 
-### What is this repository for? ###
+## Local deployment
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This application can be deployed locally. On windows, install git and clone the repository:
 
-### How do I get set up? ###
+```
+git clone https://github.com/GauravPPawar/CIS-Hack.git
+cd CIS-Hack/HellionCoders/GuidingYourWay
+```
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Install the dependencies:
 
-### Contribution guidelines ###
+```
+pip install flask
+```
 
-* Writing tests
-* Code review
-* Other guidelines
+and start the application:
 
-### Who do I talk to? ###
+```
+python app.py
+...
+* Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+```
 
-* Repo owner or admin
-* Other community or team contact
+View the website in the browser.  The test script can also be used to test the website:
+
+```
+./GuidingYourWay http://localhost:5000
+```
