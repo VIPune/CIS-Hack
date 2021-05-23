@@ -1,0 +1,1339 @@
+{
+    "Diploma": {
+        "Computer Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "English for MSBTE I Scheme",
+                        "ENGLISH FOR DIPLOMA"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=Nd4MScADY94",
+                        "https://www.youtube.com/watch?v=LH57BAO9K88"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Basic Science Physics for MSBTE I Scheme"
+                    ],
+                    "YouTube": [
+                        "https://www.toppr.com/guides/general-knowledge/basic-science/basic-physics/",
+                        "https://courses.lumenlearning.com/boundless-physics/chapter/the-basics-of-physics/"
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Basic Science Chemistry for MSBTE I Scheme"
+                    ],
+                    "YouTube": [
+                        "https://www.toppr.com/guides/general-knowledge/basic-science/basic-chemistry/",
+                        "https://www.youtube.com/watch?v=MYuh5yErdfA"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Basic Mathematics for MSBTE I Scheme",
+                        "BASIC MATHEMATICS"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=yT3jh2aZN68",
+                        "https://www.youtube.com/watch?v=TMubSggUOVE"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Elements Of Electrical Engineering For 2 Sem Diploma",
+                        "Elements of Electrical Engineering TechKnowledge Book"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=OVsevSLjGeg",
+                        "https://www.youtube.com/watch?v=X_KWJ_MinOU"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "Applied Mathematics for Polytechnics",
+                        "A Basic Course in Mathematics for Polytechnic"
+                    ],
+                    "YouTube": [
+                        "https://www.apam.columbia.edu/programs/applied-mathematics",
+                        "https://www.youtube.com/watch?v=pMxYBV5_V_U"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Basic Electronics",
+                        "Basic Electronics: Principles and Applications"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=uXr4lXYjXuU",
+                        "https://www.youtube.com/watch?v=w8Dq8blTmSA"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Let us C",
+                        "The C Programming Language"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+                        "https://www.youtube.com/watch?v=8PopR3x-VMY"
+                    ]
+                },
+                "Computer Peripheral & Hardware Maintenance": {
+                    "Books": [
+                        "Computer Peripheral & Hardware Maintenance – FY DIPLOMA in COMPUTER "
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=4KFjswXoCSc",
+                        "https://www.youtube.com/watch?v=8VMbetSpIEo"
+                    ]
+                },
+                "Web Page Designing with HTML": {
+                    "Books": [
+                        "WEB PAGE DESIGNING WITH HTML – FY DIPLOMA in COMPUTER"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=O1mDHQVIbLY"
+                    ]
+                }
+            },
+            "SEM III": {
+                "Object Oriented Programming Using C++": {
+                    "Books": [
+                        "Object-Oriented Programming in C++",
+                        "Object-Oriented Programming with C++ | 8th Edition"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=_SH1T3y_D7o",
+                        "https://www.youtube.com/watch?v=h4kUiFOb_v0"
+                    ]
+                },
+                "Data Structure Using C": {
+                    "Books": [
+                        "Data Structures and Algorithms using C",
+                        "Data Structures Through C in Depth"
+                    ],
+                    "YouTube": [
+                        "https://www.mygreatlearning.com/blog/data-structures-using-c/",
+                        "https://www.youtube.com/watch?v=11i8bRojtYk"
+                    ]
+                },
+                "Computer Graphics": {
+                    "Books": [
+                        "Computer Graphics for Diploma",
+                        "Computer Graphics C Version"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=U9NrXOBXA1I",
+                        "https://www.youtube.com/watch?v=NmMky9Pg8Yc"
+                    ]
+                },
+                "Database Management System": {
+                    "Books": [
+                        "Database Management Systems (DBMS)",
+                        "Database System Concepts | 6th Edition"
+                    ],
+                    "YouTube": [
+                        "https://www.guru99.com/what-is-dbms.html",
+                        "https://www.youtube.com/watch?v=T7AxM7Vqvaw"
+                    ]
+                },
+                "Digital Technics": {
+                    "Books": [
+                        "Digital Techniques Nirali"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=rkkhddqjBao"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Java Programming": {
+                    "Books": [
+                        "LET US JAVA",
+                        "Java For Dummies"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+                        "https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK"
+                    ]
+                },
+                "Software Engineering": {
+                    "Books": [
+                        "SOFTWARE ENGINEERING (INDIA)",
+                        "Software Engineering: A Practitioner’s Approach"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=uJpQlyT_CK4&list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2",
+                        "https://www.youtube.com/watch?v=4b1D1QFEel0&list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH"
+                    ]
+                },
+                "Data Communication and Computer Network": {
+                    "Books": [
+                        "Data Communications and Computer Networks",
+                        "Data and Computer Communications | Tenth Edition | By Pearson"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+                        "https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx"
+                    ]
+                },
+                "Microprocessors": {
+                    "Books": [
+                        "Microprocessors 8086",
+                        "Microprocessors Nirali"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=cxo9RgbPwg8&list=PLWPirh4EWFpFDi8bggPYOiMLlD1D_bBPM",
+                        "https://www.youtube.com/watch?v=6R7JDkpG1Wk&list=PLrjkTql3jnm8HbdMwBYIMAd3UdstWChFH"
+                    ]
+                },
+                "GUI Application Development using VB.Net": {
+                    "Books": [
+                        "GUI Application Development Using VB.NET",
+                        "GUI Application Development using VB.Net MSBTE Diploma Computer"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=AJpTbPasJqI&list=PLS1QulWo1RIYLpgVN_CpXbkOQoYJTItzg",
+                        "https://www.youtube.com/watch?v=rPxC1tMec6I&list=PL8Hi5Onqn2eVOgJDjmQXPIPun8528FNPg"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Environmental Studies for MSBTE (I SCHEME PATTERN S.Y)"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=7YEgleLstDY"
+                    ]
+                },
+                "Operating Systems": {
+                    "Books": [
+                        "OPERATING SYSTEMS - THIRD YEAR DIPLOMA IN COMPUTER",
+                        "Operating Systems Techneo"
+                    ],
+                    "YouTube": [
+                        "https://whatis.techtarget.com/definition/operating-system-OS",
+                        "https://www.youtube.com/watch?v=26QPDBe-NB8"
+                    ]
+                },
+                "Advanced Java Programming": {
+                    "Books": [
+                        "ADVANCED JAVA PROGRAMMING - THIRD YEAR DIPLOMA",
+                        "Advanced Java Programming (with MCQ)"
+                    ],
+                    "YouTube": [
+                        "https://www.edureka.co/blog/advanced-java-tutorial",
+                        "https://www.youtube.com/watch?v=Ae-r8hsbPUo"
+                    ]
+                },
+                "Software Testing": {
+                    "Books": [
+                        "SOFTWARE TESTING - THIRD YEAR DIPLOMA IN COMPUTER ENGG GROUP"
+                    ],
+                    "YouTube": [
+                        "https://www.guru99.com/software-testing-introduction-importance.html",
+                        "https://www.youtube.com/watch?v=goaZTAzsLMk"
+                    ]
+                },
+                "Client Side Scripting Language": {
+                    "Books": [
+                        "CLIENT SIDE SCRIPTING LANGUAGE - ELECTIVE - For Diploma in Computer"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=DscQZX5XHQk",
+                        "http://codingatschool.weebly.com/client--and-server-side-scripting.html"
+                    ]
+                },
+                "Advanced Computer Network": {
+                    "Books": [
+                        "Advanced Computer Network For T.Y. MSBTE(I SCHEME)"
+                    ],
+                    "YouTube": [
+                        "https://www.shu.ac.uk/courses/computing/msc-advanced-computer-networks/full-time"
+                    ]
+                },
+                "Advanced Database Management Systems": {
+                    "Books": [
+                        "Advanced Database Management System"
+                    ],
+                    "YouTube": [
+                        "https://www.edx.org/course/advanced-database-administration",
+                        "https://www.youtube.com/watch?v=poEfLYH9W2M"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Management For MSBTE Diploma"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=ipAseP7DNlw"
+                    ]
+                },
+                "Programming with Python": {
+                    "Books": [
+                        "Program with Python with a Crash Course + Workbook",
+                        "Python QuickStart Guide: The Simplified"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+                        "https://www.youtube.com/watch?v=rfscVS0vtbw&vl=en"
+                    ]
+                },
+                "Mobile Application Development": {
+                    "Books": [
+                        "Android App Development",
+                        "Mobile Applications Development in Android"
+                    ],
+                    "YouTube": [
+                        "https://buildfire.com/how-to-create-a-mobile-app/",
+                        "https://www.valuecoders.com/blog/technology-and-apps/future-of-mobile-application-development/"
+                    ]
+                },
+                "Emerging Trends in Computer and Information Technology": {
+                    "Books": [
+                        "Emerging Trends in Computer & Information Technology: Multiple Choice Questions and Answers"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=VpKs5hUJI6M"
+                    ]
+                },
+                "Web Based Application Development Using PHP": {
+                    "Books": [
+                        "Developing Web Applications using PHP "
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=2gxLcIUFs2U",
+                        "https://www.youtube.com/watch?v=yNolUEBE3Wc"
+                    ]
+                }
+            }
+        },
+        "Information Technology": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "English for MSBTE I Scheme",
+                        "ENGLISH FOR DIPLOMA"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=Nd4MScADY94",
+                        "https://www.youtube.com/watch?v=LH57BAO9K88"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Basic Science Physics for MSBTE I Scheme"
+                    ],
+                    "YouTube": [
+                        "https://www.toppr.com/guides/general-knowledge/basic-science/basic-physics/",
+                        "https://courses.lumenlearning.com/boundless-physics/chapter/the-basics-of-physics/"
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Basic Science Chemistry for MSBTE I Scheme"
+                    ],
+                    "YouTube": [
+                        "https://www.toppr.com/guides/general-knowledge/basic-science/basic-chemistry/",
+                        "https://www.youtube.com/watch?v=MYuh5yErdfA"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Basic Mathematics for MSBTE I Scheme",
+                        "BASIC MATHEMATICS"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=yT3jh2aZN68",
+                        "https://www.youtube.com/watch?v=TMubSggUOVE"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Elements Of Electrical Engineering For 2 Sem Diploma",
+                        "Elements of Electrical Engineering TechKnowledge Book"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=OVsevSLjGeg",
+                        "https://www.youtube.com/watch?v=X_KWJ_MinOU"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "Applied Mathematics for Polytechnics",
+                        "A Basic Course in Mathematics for Polytechnic"
+                    ],
+                    "YouTube": [
+                        "https://www.apam.columbia.edu/programs/applied-mathematics",
+                        "https://www.youtube.com/watch?v=pMxYBV5_V_U"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Basic Electronics",
+                        "Basic Electronics: Principles and Applications"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=uXr4lXYjXuU",
+                        "https://www.youtube.com/watch?v=w8Dq8blTmSA"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Let us C",
+                        "The C Programming Language"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+                        "https://www.youtube.com/watch?v=8PopR3x-VMY"
+                    ]
+                },
+                "Computer Peripheral & Hardware Maintenance": {
+                    "Books": [
+                        "Computer Peripheral & Hardware Maintenance – FY DIPLOMA in COMPUTER "
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=4KFjswXoCSc",
+                        "https://www.youtube.com/watch?v=8VMbetSpIEo"
+                    ]
+                },
+                "Web Page Designing with HTML": {
+                    "Books": [
+                        "WEB PAGE DESIGNING WITH HTML – FY DIPLOMA in COMPUTER"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=O1mDHQVIbLY"
+                    ]
+                }
+            },
+            "SEM III": {
+                "Object Oriented Programming Using C++": {
+                    "Books": [
+                        "Object-Oriented Programming in C++",
+                        "Object-Oriented Programming with C++ | 8th Edition"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=_SH1T3y_D7o",
+                        "https://www.youtube.com/watch?v=h4kUiFOb_v0"
+                    ]
+                },
+                "Data Structure Using C": {
+                    "Books": [
+                        "Data Structures and Algorithms using C",
+                        "Data Structures Through C in Depth"
+                    ],
+                    "YouTube": [
+                        "https://www.mygreatlearning.com/blog/data-structures-using-c/",
+                        "https://www.youtube.com/watch?v=11i8bRojtYk"
+                    ]
+                },
+                "Computer Graphics": {
+                    "Books": [
+                        "Computer Graphics for Diploma",
+                        "Computer Graphics C Version"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=U9NrXOBXA1I",
+                        "https://www.youtube.com/watch?v=NmMky9Pg8Yc"
+                    ]
+                },
+                "Database Management System": {
+                    "Books": [
+                        "Database Management Systems (DBMS)",
+                        "Database System Concepts | 6th Edition"
+                    ],
+                    "YouTube": [
+                        "https://www.guru99.com/what-is-dbms.html",
+                        "https://www.youtube.com/watch?v=T7AxM7Vqvaw"
+                    ]
+                },
+                "Digital Technics": {
+                    "Books": [
+                        "Digital Techniques Nirali"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=rkkhddqjBao"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Java Programming": {
+                    "Books": [
+                        "LET US JAVA",
+                        "Java For Dummies"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=WPvGqX-TXP0",
+                        "https://www.youtube.com/watch?v=mAtkPQO1FcA"
+                    ]
+                },
+                "Software Engineering": {
+                    "Books": [
+                        "SOFTWARE ENGINEERING (INDIA)",
+                        "Software Engineering: A Practitioner’s Approach"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=WxkP5KR_Emk",
+                        "https://www.youtube.com/watch?v=4b1D1QFEel0"
+                    ]
+                },
+                "Data Communication and Computer Network": {
+                    "Books": [
+                        "Data Communications and Computer Networks",
+                        "Data and Computer Communications | Tenth Edition | By Pearson"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=OmYHJShD_QM",
+                        "https://www.youtube.com/watch?v=GfIvQiamXFU"
+                    ]
+                },
+                "Microprocessors": {
+                    "Books": [
+                        "Microprocessors 8086",
+                        "Microprocessors Nirali"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=Xl2nWDcy0To",
+                        "https://www.youtube.com/watch?v=-558gsZ4ZrM"
+                    ]
+                },
+                "GUI Application Development using VB.Net": {
+                    "Books": [
+                        "GUI Application Development Using VB.NET",
+                        "GUI Application Development using VB.Net MSBTE Diploma Computer"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=cCo7XKB52N4",
+                        "https://www.youtube.com/watch?v=rX3H8a6_1gI"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Environmental Studies for MSBTE (I SCHEME PATTERN S.Y)"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=7YEgleLstDY"
+                    ]
+                },
+                "Operating Systems": {
+                    "Books": [
+                        "OPERATING SYSTEMS - THIRD YEAR DIPLOMA IN COMPUTER",
+                        "Operating Systems Techneo"
+                    ],
+                    "YouTube": [
+                        "https://whatis.techtarget.com/definition/operating-system-OS",
+                        "https://www.youtube.com/watch?v=26QPDBe-NB8"
+                    ]
+                },
+                "Advanced Java Programming": {
+                    "Books": [
+                        "ADVANCED JAVA PROGRAMMING - THIRD YEAR DIPLOMA",
+                        "Advanced Java Programming (with MCQ)"
+                    ],
+                    "YouTube": [
+                        "https://www.edureka.co/blog/advanced-java-tutorial",
+                        "https://www.youtube.com/watch?v=Ae-r8hsbPUo"
+                    ]
+                },
+                "Software Testing": {
+                    "Books": [
+                        "SOFTWARE TESTING - THIRD YEAR DIPLOMA IN COMPUTER ENGG GROUP"
+                    ],
+                    "YouTube": [
+                        "https://www.guru99.com/software-testing-introduction-importance.html",
+                        "https://www.youtube.com/watch?v=goaZTAzsLMk"
+                    ]
+                },
+                "Client Side Scripting Language": {
+                    "Books": [
+                        "CLIENT SIDE SCRIPTING LANGUAGE - ELECTIVE - For Diploma in Computer"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=DscQZX5XHQk",
+                        "http://codingatschool.weebly.com/client--and-server-side-scripting.html"
+                    ]
+                },
+                "Advanced Computer Network": {
+                    "Books": [
+                        "Advanced Computer Network For T.Y. MSBTE(I SCHEME)"
+                    ],
+                    "YouTube": [
+                        "https://www.shu.ac.uk/courses/computing/msc-advanced-computer-networks/full-time"
+                    ]
+                },
+                "Advanced Database Management Systems": {
+                    "Books": [
+                        "Advanced Database Management System"
+                    ],
+                    "YouTube": [
+                        "https://www.edx.org/course/advanced-database-administration",
+                        "https://www.youtube.com/watch?v=poEfLYH9W2M"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Management For MSBTE Diploma"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=ipAseP7DNlw"
+                    ]
+                },
+                "Programming with Python": {
+                    "Books": [
+                        "Program with Python with a Crash Course + Workbook",
+                        "Python QuickStart Guide: The Simplified"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+                        "https://www.youtube.com/watch?v=rfscVS0vtbw&vl=en"
+                    ]
+                },
+                "Mobile Application Development": {
+                    "Books": [
+                        "Android App Development",
+                        "Mobile Applications Development in Android"
+                    ],
+                    "YouTube": [
+                        "https://buildfire.com/how-to-create-a-mobile-app/",
+                        "https://www.valuecoders.com/blog/technology-and-apps/future-of-mobile-application-development/"
+                    ]
+                },
+                "Emerging Trends in Computer and Information Technology": {
+                    "Books": [
+                        "Emerging Trends in Computer & Information Technology: Multiple Choice Questions and Answers"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=VpKs5hUJI6M"
+                    ]
+                },
+                "Web Based Application Development Using PHP": {
+                    "Books": [
+                        "Developing Web Applications using PHP "
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=2gxLcIUFs2U",
+                        "https://www.youtube.com/watch?v=yNolUEBE3Wc"
+                    ]
+                }
+            }
+        },
+        "Electrical Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Effective English with CD",
+                        "English Grammer at Glance"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=VVhuLMELEcY&list=PLry0Rv5X75bSCqmunscVB5FnZ_f5alwzb",
+                        "https://www.youtube.com/watch?v=3ha-kqV0P38"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Fundamentals of Physics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLAbbqVpW4yxs7xzYMrgIbNAik-6i8FuA5",
+                        "https://www.youtube.com/playlist?list=PLk93o2oQAL_NjxBzOCFVotAR_Zy88Hfzl"
+                        
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Engineering chemistry",
+                        "Fundamentals of electroChemistry"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLG0FUtUKWA9IwqUNo51KK8HGGIZZ5gQIz",
+                        "https://www.youtube.com/playlist?list=PLQYgCxDYkIszubcP2hr48swYPaY3w-WM_"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Higher Engineering Matematics",
+                        "Advance Engineering mathematics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLU6SqdYcYsfINU_Y9CMp1pZ827ZB1U-Xn",
+                        "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLPxjd-k-MaoG7qgRQ-2fKc"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Elements of Electrical Engineering": {
+                    "Books": [
+                        "Elements of Electrical Engineering"
+                        
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc",
+                        "https://www.youtube.com/playlist?list=PLD85An3RPybywzrn0gGQ2-UjD7OOAa0Jc"
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "methods of applied mathematics",
+                        "Introduction to applied mathematics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLPIwNooIb9vg73jq-EmDHWr4S66DIrTdt",
+                        "https://www.youtube.com/playlist?list=PL-6hVfl0LQ--wUxOmz81Sr5knEPzxNHLr"
+                    ]
+                },
+                "Basic Electronics": {
+                    "Books": [
+                        "Micro Electronic and Mechanical Systems.",
+                        "Electronics Basics by Hua Tang."
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Programming in c": {
+                    "Books": [
+                        "Let us C",
+                        "Head first C"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR",
+                        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR"
+                    ]
+                },
+                "Computer Peripheral and Hardware Maintenance": {
+                    "Books": [
+                        "Computer hardware maintance"
+                        
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLS0spxc8nUsAt5iBvXjRlzr4fsep5Ov-o"
+                        
+                    ]
+                }
+                
+            },
+            "SEM III": {
+                "Digital Techniques": {
+                    "Books": [
+                        "modern digital electronics",
+                        "digital electronics principles"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+                        "https://www.youtube.com/playlist?list=PLbGui_ZYuhiilLuOs29220lxrhl3Ee7tO"
+                    ]
+                },
+                "Applied Electronics": {
+                    "Books": [
+                        "Applied Electronics ",
+                        "Princples of Applied Electronics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLm_MSClsnwm-hRnTkL_spXpADYzgyvKaL",
+                        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS"
+                    ]
+                },
+                "Electric Circuits and Networks": {
+                    "Books": [
+                        "Basics of Electrical Engineering",
+                        "Circuit and Network"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLhuphP2dsOLh52yyxrNN7tgTDZdqV8vFx",
+                        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh"
+                    ]
+                },
+                "Principles of Electronic Communication": {
+                    "Books": [
+                        "Electronic Communication System",
+                        " Principles of Electronic Communication System"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLgwJf8NK-2e5PngHbdEadEun5XPvnn00N"
+                        
+                    ]
+                }
+            
+            },
+            "SEM IV": {
+                "Linear Integrated Circuits": {
+                    "Books": [
+                        "Op-Amps and Linear Integrated Circuits ",
+                        "Operational Amplifiers and ICs"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLPD7Ds2_Il0ggKZeS7jsx8N7k1DovnjTg",
+                        "https://www.youtube.com/playlist?list=PLtmB4Xi1QiUB_IdBMnZnFJa416Wt3xdUP"
+                    ]
+                },
+                "Consumer Electronics": {
+                    "Books": [
+                        "Consumer Electronics",
+                        "Television and Video Engineering"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLy3MD_-7Q9uzdwLBU48EPhSe8tw9oNylw",
+                        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS"
+                    ]
+                },
+                "Microcontroller and Applications": {
+                    "Books": [
+                        "8051 micro-controller architecture and application",
+                        "Microprocessor and Micro-Controllers "
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLm_MSClsnwm9hEIDpFfDnOEu-6kVnF4ug"
+                      
+                    ]
+                }
+               
+            },
+            "SEM V": {
+                "Environmental Studies": {
+                    "Books": [
+                        "Basic Enviromental science",
+                        "Environmental Studies"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLWNFsVK9R1MCvvPPAzX9_cV5YnfUKQaPx",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Control Systems and PLC": {
+                    "Books": [
+                        "Process Control instrumentation Technology ",
+                        "Intro to Programmable Logic Control"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo",
+                        "https://www.youtube.com/playlist?list=PLhuphP2dsOLjdkgkD_uqsmmj37X0mLHnW"
+                    ]
+                },
+                "Embedded Systems": {
+                    "Books": [
+                        "Making Embedded System"
+                        
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLYwpaL_SFmcBpuYagx0JiSaM-Bi4dm0hG"
+                       
+                    ]
+                },
+                "Mobile and Wireless Communication": {
+                    "Books": [
+                        "Mobile and Wireless Communication",
+                        "Advance Mobile and Wireless Communication"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLV8vIYTIdSnZMKTQSTxWbx4NGNfxyZq_N",
+                        "https://www.youtube.com/playlist?list=PLiRLcaESqTvo5pndADYAMcENWCNl0EpC9"
+                    ]
+                }
+               
+            },
+            "SEM VI": {
+                "Microwave and RADAR": {
+                    "Books": [
+                        "Microwave and Radar Engineering",
+                        "Fundamental of Microwave & Radar Engineering"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLgwJf8NK-2e6A4Mtxud6xPHE1UecxWsHW",
+                        "https://www.youtube.com/playlist?list=PLOzRYVm0a65dcxLJgO0uzQ0Sad-57w37u"
+                    ]
+                },
+                "Industrial Automation": {
+                    "Books": [
+                        "Industrial Automation: Hands On",
+                        "Industrial Automation and Robotics: An Introduction"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLE8F9BF5CB1201D23",
+                        "https://www.youtube.com/playlist?list=PLln3BHg93SQ9SEN8jXvhycxAeFcmkjTNs"
+                    ]
+                }              
+            }
+        },
+        "Mechanical Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Effective English with CD",
+                        "English Grammer at Glance"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=VVhuLMELEcY&list=PLry0Rv5X75bSCqmunscVB5FnZ_f5alwzb",
+                        "https://www.youtube.com/watch?v=3ha-kqV0P38"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Fundamentals of Physics"
+                    
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLAbbqVpW4yxs7xzYMrgIbNAik-6i8FuA5",
+                        "https://www.youtube.com/playlist?list=PLk93o2oQAL_NjxBzOCFVotAR_Zy88Hfzl"
+                        
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Engineering chemistry",
+                        "Fundamentals of electroChemistry"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLG0FUtUKWA9IwqUNo51KK8HGGIZZ5gQIz",
+                        "https://www.youtube.com/playlist?list=PLQYgCxDYkIszubcP2hr48swYPaY3w-WM_"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Higher Engineering Matematics",
+                        "Advance Engineering mathematics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLU6SqdYcYsfINU_Y9CMp1pZ827ZB1U-Xn",
+                        "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLPxjd-k-MaoG7qgRQ-2fKc"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Applied Science": {
+                    "Books": [
+                        "Functional Equations in Applied Sciences",
+                        "Mathematical Methods in Applied Sciences"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLsz05IRkJmFqZiQfTfRhgzCkKWzoemArQ"
+                     
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "methods of applied mathematics",
+                        "Introduction to applied mathematics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLPIwNooIb9vg73jq-EmDHWr4S66DIrTdt",
+                        "https://www.youtube.com/playlist?list=PL-6hVfl0LQ--wUxOmz81Sr5knEPzxNHLr"
+                    ]
+                },
+                "Applied Mechanics": {
+                    "Books": [
+                        "A Textbook of Applied Mechanics",
+                        "Engineering Analysis in Applied Mechanics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLDN15nk5uLiAyM7MbRBF1eIFC8y5vMRxI",
+                        "https://www.youtube.com/playlist?list=PLsSgFix02l7vJOOUnKaAnPNecggYDQ2Wp"
+                    ]
+                }
+               
+            },
+            "SEM III": {
+                "Strength of Materials": {
+                    "Books": [
+                        "Strength Of Materials",
+                        "Essentials of Strength of Materials"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL9RcWoqXmzaLlfmNg2Ku1SdZtvXnYrLbc",
+                        "https://www.youtube.com/playlist?list=PL9H2IJVEgfm_wwJm0GIfeCWjHZtpG5VQI"
+                    ]
+                },
+                "Basic Electrical and Thermal Engineering": {
+                    "Books": [
+                        "The CRC Handbook of Thermal Engineering",
+                        "Thermal Engineering: A Text Book of Practicals"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL9RcWoqXmzaK6AHCCyL_J6gqc02RN-w-D"
+                        
+                    ]
+                },
+                "Mechanical Working Drawing": {
+                    "Books": [
+                        "Mechanical Drawing - Projection Drawing",
+                        "Machine Drawing"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLmmAzxN3QsvAEdWkKl3GfWjnzCsmmoF2b",
+                        "https://www.youtube.com/playlist?list=PL1xA-pZWMKpPCC2IuYVt435v_2EqcA3ar"
+                    ]
+                },
+                "Mechanical Engineering Materials": {
+                    "Books": [
+                        "Engineering Drawing and Materials for Mechanical Engineering "
+                       
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLbCDLPSRuhSMI4DLJ8VIpitedGc2fT_5E",
+                        "https://www.youtube.com/playlist?list=PLyAZSyX8Qy5Am_2StOOQ5vCUE3VIcAenE"
+                    ]
+                },
+                "Engineering Metrology": {
+                    "Books": [
+                        "Engineering Metrology and Measurements",
+                        "Applied Metrology for Manufacturing Engineering"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLFW6lRTa1g83VG9vmMfSHf2o6q_SlcC9x",
+                        "https://www.youtube.com/playlist?list=PLCiQX8xL_7JzfW5c9YsDfav_m8k6in4Fw"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Theory of Machines": {
+                    "Books": [
+                        "Theory of Machines: Kinematics and Dynamics",
+                        "Theory of Machines"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a",
+                        "https://www.youtube.com/playlist?list=PLNyPK_sfNdSSmNpaWkitGnf8cQO7we_G4"
+                    ]
+                },
+                "Mechanical Engineering Measurements": {
+                    "Books": [
+                        "Engineering Metrology and Measurements",
+                        "Mechanical Measurements"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLwdnzlV3ogoXJLQ8lSGb1hsztt24l9kZZ",
+                        "https://www.youtube.com/playlist?list=PL41FA714195562989"
+                    ]
+                },
+                "Fluid Mechanics and Machinery": {
+                    "Books": [
+                        "Fluid Mechanics and Machinery",
+                        "A Textbook of Fluid Mechanics and Hydraulic Machines"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL9RcWoqXmzaLnlGN39w2-1jyFyI_ALVa3",
+                        "https://www.youtube.com/playlist?list=PLfNot5_yarU3jwJl8omMCpn51BA5SUgLU"
+                    ]
+                },
+                "Environmental Studies": {
+                    "Books": [
+                        "Basic Enviromental science",
+                        "Environmental Studies"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLWNFsVK9R1MCvvPPAzX9_cV5YnfUKQaPx",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Fundamentals of Mechatronics": {
+                    "Books": [
+                        "Fundamentals of Mechatronics",
+                        "Mechatronics: Fundamentals and Applications"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLFFMIXoXGiOW01Tpv5oYg70MPMlc0tt6s",
+                        "https://www.youtube.com/playlist?list=PLLy_2iUCG87BNHXRb6L2pWEpMcLoFaY_U"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Power Engineering and Refrigeration": {
+                    "Books": [
+                        "The Refrigerating Data Book",
+                        "Air Conditioning and Refrigeration Engineering"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLFe9iOZ1HkC4aGxREk0D-BD5vCN_GxZ8x",
+                        "https://www.youtube.com/watch?v=WgHb_hPji7Y&list=PL7yx7VHp1sBAwD8KKykSUbpobtbi1ST56"
+                    ]
+                },
+                "Advanced Manufacturing Processes": {
+                    "Books": [
+                        "Advanced Manufacturing and Processing Technology",
+                        "Modern Manufacturing Processes"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLbMVogVj5nJSzoQXmu7dsj9ZKJyZ1P4O8",
+                        "https://www.youtube.com/playlist?list=PL9H2IJVEgfm8w10EKq2YdtMlTDXedmrdB"
+                    ]
+                },
+                "Elements of Machine Design": {
+                    "Books": [
+                        "Design of Machine Elements",
+                        "The Elements of Mechanical Design"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLF4rzv4nvefRPEy4X8YlW1i1K1QlKggW9",
+                        "https://www.youtube.com/playlist?list=PLm_MSClsnwm-QwOu8EkbM7C-DOUB4DxLD"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Power Plant Engineering": {
+                    "Books": [
+                        "Practical Power Plant Engineering",
+                        "Power Plant Engineering"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Solid Modeling and Additive Manufacturing": {
+                    "Books": [
+                        "Solid Modeling and Drafting "
+                      
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            }
+            
+        },
+        "Civil Engineering": {
+            "SEM I": {
+                "English": {
+                    "Books": [
+                        "Effective English with CD",
+                        "English Grammer at Glance"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/watch?v=VVhuLMELEcY&list=PLry0Rv5X75bSCqmunscVB5FnZ_f5alwzb",
+                        "https://www.youtube.com/watch?v=3ha-kqV0P38"
+                    ]
+                },
+                "Basic Science-Physics": {
+                    "Books": [
+                        "Fundamentals of Physics"
+                    
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLAbbqVpW4yxs7xzYMrgIbNAik-6i8FuA5",
+                        "https://www.youtube.com/playlist?list=PLk93o2oQAL_NjxBzOCFVotAR_Zy88Hfzl"
+                        
+                    ]
+                },
+                "Basic Science-Chemistry": {
+                    "Books": [
+                        "Engineering chemistry",
+                        "Fundamentals of electroChemistry"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLG0FUtUKWA9IwqUNo51KK8HGGIZZ5gQIz",
+                        "https://www.youtube.com/playlist?list=PLQYgCxDYkIszubcP2hr48swYPaY3w-WM_"
+                    ]
+                },
+                "Basic Mathematics": {
+                    "Books": [
+                        "Higher Engineering Matematics",
+                        "Advance Engineering mathematics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLU6SqdYcYsfINU_Y9CMp1pZ827ZB1U-Xn",
+                        "https://www.youtube.com/playlist?list=PLU6SqdYcYsfLPxjd-k-MaoG7qgRQ-2fKc"
+                    ]
+                }
+            },
+            "SEM II": {
+                "Applied Science": {
+                    "Books": [
+                        "Functional Equations in Applied Sciences",
+                        "Mathematical Methods in Applied Sciences"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLsz05IRkJmFqZiQfTfRhgzCkKWzoemArQ"
+                     
+                    ]
+                },
+                "Applied Mathematics": {
+                    "Books": [
+                        "methods of applied mathematics",
+                        "Introduction to applied mathematics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLPIwNooIb9vg73jq-EmDHWr4S66DIrTdt",
+                        "https://www.youtube.com/playlist?list=PL-6hVfl0LQ--wUxOmz81Sr5knEPzxNHLr"
+                    ]
+                },
+                "Applied Mechanics": {
+                    "Books": [
+                        "A Textbook of Applied Mechanics",
+                        "Engineering Analysis in Applied Mechanics"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLDN15nk5uLiAyM7MbRBF1eIFC8y5vMRxI",
+                        "https://www.youtube.com/playlist?list=PLsSgFix02l7vJOOUnKaAnPNecggYDQ2Wp"
+                    ]
+                }
+               
+            },
+            "SEM III": {
+                "Hydraulics": {
+                    "Books": [
+                        "OPEN CHANNEL HYDRAULICS",
+                        "FLUID MECHANICS"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL9H2IJVEgfm8DeZGf5fn5cF_AFKiCyqkz",
+                        "https://www.youtube.com/playlist?list=PL9PKXBF-BfEITbLl2y3V0p8uXxcQWbqEJ"
+                    ]
+                },
+                "Theory of Structures": {
+                    "Books": [
+                        "The History of the Theory of Structures",
+                        "Basic Theory of Structures"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLk7ptZcI9vmiC99nDbKPK5btwh92dueLH",
+                        "https://www.youtube.com/playlist?list=PL9RcWoqXmzaJ_MDDo1KlkPoqg0tZgxEZY"
+                        
+                    ]
+                },
+                "Railway and Bridge Engineering": {
+                    "Books": [
+                        "Design and Construction of Modern Steel Railway Bridges",
+                        "Analysis and Design of Railway Bridges"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLXKZsEFKU__HHtsCMaAIPB3tr5Ht2Bdge"
+                        
+                    ]
+                },
+                "Geo-Technical Engineering": {
+                    "Books": [
+                        "RISK AND RELIABILITY IN GEOTECHNICAL ENGINEERING",
+                        "PRINCIPLES AND PRACTISE OF GROUND IMPROVEMENT"
+                       
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLgzsL8klq6DItVXUMDXs0lsqy3S9j8gkK",
+                        "https://www.youtube.com/playlist?list=PLk7ptZcI9vmgVCicCxeYKeyq_jfXXEmOG"
+                    ]
+                }
+            },
+            "SEM IV": {
+                "Theory of Machines": {
+                    "Books": [
+                        "Theory of Machines: Kinematics and Dynamics",
+                        "Theory of Machines"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLiSPNzs4fD9v3sQhMMuihEDothsOAKJ-a",
+                        "https://www.youtube.com/playlist?list=PLNyPK_sfNdSSmNpaWkitGnf8cQO7we_G4"
+                    ]
+                },
+                "Building Planning and Drawing": {
+                    "Books": [
+                        "CIVIL ENGINEERING DRAWING AND HOUSE PLANNING",
+                        "DRAWING AND DESIGN OF RESISENTIAL AND COMMERCIAL BUILDINGS"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL5S3o0bbDTuJIe7LYSD2YZG7pdt98JnFL"
+                  
+                    ]
+                },
+                "Environmental Studies": {
+                    "Books": [
+                        "Basic Enviromental science",
+                        "Environmental Studies"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLWNFsVK9R1MCvvPPAzX9_cV5YnfUKQaPx",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                }
+            },
+            "SEM V": {
+                "Water Resource Engineering": {
+                    "Books": [
+                        "INTRODUCTION TO WATER RESOURCES AND ENVIRONMENTAL ISSUES ",
+                        "WATER 4.0"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL9RcWoqXmzaJJhCtjG2WIHS4QFRzhLfk5",
+                        "https://www.youtube.com/playlist?list=PLk7ptZcI9vmiTwRoPIt2jGFFmxLgOcqlB"
+                    ]
+                },
+                "Advanced Manufacturing Processes": {
+                    "Books": [
+                        "Advanced Manufacturing and Processing Technology",
+                        "Modern Manufacturing Processes"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLbMVogVj5nJSzoQXmu7dsj9ZKJyZ1P4O8",
+                        "https://www.youtube.com/playlist?list=PL9H2IJVEgfm8w10EKq2YdtMlTDXedmrdB"
+                    ]
+                },
+                "Design of Steel and RCC Structures": {
+                    "Books": [
+                        "DESIGN OF STEEL STRUCTURE ",
+                        "LIMIT STATE DESIGN OF STEEL STRUCTURE"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL51300B0778FB5784",
+                        "https://www.youtube.com/playlist?list=PLk7ptZcI9vmhcbvZzcm0biX76uTO1u1cI"
+                    ]
+                }
+            },
+            "SEM VI": {
+                "Management": {
+                    "Books": [
+                        "Book of apple wala",
+                        "Book of newton"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR",
+                        "https://www.youtube.com/playlist?list=PLvbKJaHKFw3aHNzdm1umUtw3bMjJRAStR"
+                    ]
+                },
+                "Estimating and Costing": {
+                    "Books": [
+                        "ESTIMATING,COSTING,SPECIFICATION AND VALUATION IN CIVIL ENGINEERING",
+                        "A COURSE IN ELECTRICAL INSTALLATION ESTIMATING AND COSTING"
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PL_Neuu4K0N4SLOAZrkNqnB8oboSybgA6c"
+                        
+                    ]
+                },
+                "Public Health Engineering": {
+                    "Books": [
+                        "Water-Supply and Public Health Engineering ",
+                        "Public Health Engineering: Sewerage, Second Edition "
+                      
+                    ],
+                    "YouTube": [
+                        "https://www.youtube.com/playlist?list=PLyKNSXBaJwe6VupCtDS_a1rRlXe2qvt_n"
+                        
+                    ]
+                }
+            }
+            
+        }
+    }
+}

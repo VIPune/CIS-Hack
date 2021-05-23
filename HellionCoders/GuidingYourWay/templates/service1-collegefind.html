@@ -1,0 +1,144 @@
+{% extends 'layouts.html'%}
+{%block content%}
+<div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-3 mx-auto">
+                <div class="row">
+                    <div class="panel panel-default d-flex flex-column justify-content-center">
+                        <h4 class="text-center font-weight-bold mt-4 pt-2">Find you best colleges according to the range
+                            of
+                            percentage.</h4>
+                        <form class="panel-body bg-info p-4 d-flex flex-column justify-content-center"
+                            action="/collegeFinder" method="POST">
+                            <div class="form-group">
+                                <label class="text-white" for="exampleFormControlInput1">Select Department</label>
+                                <select class="form-control" id="exampleFormControlSelect1"
+                                    aria-label="Default select example" name="subDropDown">
+                                    <option>Computer Engineering</option>
+                                    <option>Aeronautical Engineering</option>
+                                    <option>Agricultural Engineering</option>
+                                    <option>Automobile Engineering</option>
+                                    <option>Bio Medical Engineering</option>
+                                    <option>Bio Technology</option>
+                                    <option>Chemical Engineering</option>
+                                    <option>Chemical Technology</option>
+                                    <option>Civil Engineering</option>
+                                    <option>Electrical & Instrumentation Engineering</option>
+                                    <option>Electrical and Electronics Engineering</option>
+                                    <option>Electronics Engineering</option>
+                                    <option>Electrical Engineering</option>
+                                    <option>Environmental Engineering</option>
+                                    <option>Food Engineering and Technology</option>
+                                    <option>Industrial Engineering</option>
+                                    <option>Information Technology</option>
+                                    <option>Instrumentation Engineering</option>
+                                    <option>Man Made Textile Technology</option>
+                                    <option>Mechanical Engineering</option>
+                                    <option>Mechatronics Engineering</option>
+                                    <option>Metallurgical Engineering</option>
+                                    <option>Mining Engineering</option>
+                                    <option>Oil Fats and Waxes Technology</option>
+                                    <option>Oil Technology</option>
+                                    <option>Oil and Paints Technology</option>
+                                    <option>Paints Technology</option>
+                                    <option>Paper and Pulp Technology</option>
+                                    <option>Petro Chemical Engineering</option>
+                                    <option>Pharmaceutical and Fine Chemical Technology</option>
+                                    <option>Plastic Technology</option>
+                                    <option>Plastic and Polymer Engineering</option>
+                                    <option>Printing Engineering and Graphics Communication</option>
+                                    <option>Printing and Packing Technology</option>
+                                    <option>Production Engineering</option>
+                                    <option>Surface Coating Technology</option>
+                                    <option>Textile Chemistry</option>
+                                    <option>Textile Engineering</option>
+                                    <option>Textile Plant Engineering</option>
+                                    <option>Textile Technology</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="text-white" for="exampleFormControlSelect1">Select Category</label>
+                                <select class="form-control " name="catDropDown">
+                                    <option>GOPEN</option>
+                                    <option>LOPEN</option>
+                                    <option>GOBC</option>
+                                    <option>DFNTD</option>
+                                    <option>GNTA</option>
+                                    <option>DFNTC</option>
+                                    <option>GNTC</option>
+                                    <option>DFO</option>
+                                    <option>LNTC</option>
+                                    <option>GSC</option>
+                                    <option>EW</option>
+                                    <option>DFSC</option>
+                                    <option>LNTB</option>
+                                    <option>LNTA</option>
+                                    <option>PHO</option>
+                                    <option>MI</option>
+                                    <option>GNTB</option>
+                                    <option>PHSC</option>
+                                    <option>DFOBC</option>
+                                    <option>LSC</option>
+                                    <option>LNTD</option>
+                                    <option>GST</option>
+                                    <option>PHNTA</option>
+                                    <option>DFST</option>
+                                    <option>LSEBC</option>
+                                    <option>PHNTB</option>
+                                    <option>GNTD</option>
+                                    <option>PHSEBC</option>
+                                    <option>GSEBC</option>
+                                    <option>LST</option>
+                                    <option>PHOBC</option>
+                                    <option>DFSEBC</option>
+                                    <option>PHNTC</option>
+                                    <option>DFNTB</option>
+                                    <option>PHNTD</option>
+                                    <option>EWS</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+
+                                <label class="text-white" for="exampleFormControlSelect1">Select Eligibility</label>
+                                <select class="form-control fixSize" name="critDropDown">
+                                    <option>Percentage</option>
+                                    <option>Rank</option>
+                                </select>
+                                <label class="text-white" for="exampleInputPassword1">Form</label>
+                                <input type="textbox" class="form-control" name="fromPer" id="exampleInputPassword1"
+                                    placeholder="" required>
+                                <label class="text-white" for="exampleInputPassword1">to</label>
+                                <input type="textbox" class="form-control" name="toPer" id="exampleInputPassword1"
+                                    placeholder="" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary py-1 my-1 mx-auto">Submit</button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+            <div class="container table-responsive pt-3">
+                <table class="table table-bordered table-hover">
+                    <thead class="thead-dark bg-dark text-white">
+                        <tr>
+                            {% for header in heading %}
+                            <th scope="col">{{ header }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in useData %}
+                        <tr>
+                            {% for cell in row %}
+                            <td>{{ cell }}</td>
+                            {% endfor %}
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{%endblock content%}

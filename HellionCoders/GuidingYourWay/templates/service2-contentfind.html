@@ -1,0 +1,85 @@
+{% extends 'layouts.html'%}
+{%block content%}
+<div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-3 mx-auto">
+                <div class="row">
+                    <div class="panel panel-default d-flex flex-column justify-content-center">
+                        <h4 class="text-center font-weight-bold pb-2">Find data / videos related to
+                            their syllabus easily..</h4>
+                        <form class="panel-body bg-info p-4 d-flex flex-column justify-content-center"
+                            action="/contentFinder" method="POST">
+                            <div class="form-group">
+                                <label class="text-white" for="exampleFormControlInput1">Select Course</label>
+                                <select class="form-control" id="exampleFormControlSelect1"
+                                    aria-label="Default select example" name="courseDropDown">
+                                    <option>Diploma</option>
+                                    <option>Engineering</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="text-white" for="exampleFormControlSelect1">Select Department</label>
+                                <select class="form-control" aria-label="Default select example" name="deptDropDown">
+                                    <option>Computer Engineering</option>
+                                    <option>Information Technology</option>
+                                    <option>Electrical Engineering</option>
+                                    <option>Mechanical Engineering</option>
+                                    <option>Civil Engineering</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="text-white" for="exampleFormControlSelect1">Select Semester</label>
+                                <select class="form-control fixSize" name="semDropDown">
+                                    <option>SEM I</option>
+                                    <option>SEM II</option>
+                                    <option>SEM III</option>
+                                    <option>SEM IV</option>
+                                    <option>SEM V</option>
+                                    <option>SEM VI</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary py-1 my-1 mx-auto">Submit</button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+            <div class="container table-responsive pt-3">
+                <table class="table table-bordered table-hover">
+                    <thead class="thead-dark bg-dark text-white">
+                        <tr>
+                            {% for header in heading %}
+                            <th scope="col">{{ header }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {%for row in useData%}
+                        <tr>
+                            {% for cell in row %}
+                            {% if cell %}
+                            {% set list1 = cell.split(' ') %}
+                            {% if list1[0]|length > 25 %}
+                            <td><a href="{{ cell }}">{{ cell }}</a>
+                            <td>
+                                {% else %}
+                                {% if cell == row[0] %}
+                            <th>{{ cell }}</th>
+                            {% else %}
+                            <td>{{ cell }}</td>
+                            {%endif%}
+                            {% endif %}
+                            {% else %}
+                            <td></td>
+                            {% endif %}
+                            {% endfor %}
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+{%endblock content%}
