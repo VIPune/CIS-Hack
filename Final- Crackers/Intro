@@ -1,0 +1,29 @@
+## Covid Detection Using X-Ray Analysis  ##
+
+## Team- Crackers  ##
+
+##   In  this Project we will be creating a covid-19 detection application. This will detect whether the person is having Covid-19 
+     or pneumonia by analyzing the chest x-ray of that patient.  
+
+
+## Features
+    * Easy interface to file uploading and getting the result instantly.
+    * High Accuracy
+
+
+## Tech
+  
+   [Pytorch]-PyTorch is an open source machine learning library  used for applications such as computer vision and natural language processing.
+   [Django] -Python web framework.
+   
+  
+  
+## Team Members-
+
+  * Shreyas Mandaokar
+  * Mohit Marathe
+  * Vedant Kolhe
+  * Satyam Muluk
+  
+   
+

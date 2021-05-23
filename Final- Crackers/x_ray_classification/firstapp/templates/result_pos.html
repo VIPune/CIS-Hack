@@ -1,0 +1,62 @@
+{% extends 'headerPage.html' %}
+
+{% block content%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Covid detection</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0px;
+      padding: 0 px;
+      background: url("https://www.gannett-cdn.com/presto/2020/05/08/PPHX/7f368b7d-b327-4268-a7a8-6a8602a56ecf-GettyImages-1214909868.jpg")  no-repeat;
+      background-position: center;
+      font-family: 'Roboto', sans-serif
+    }
+    body:before {
+      content: "";
+      display: block;
+      position: absolute;
+      left: 0; right: 0; top: 0; bottom: 0;
+      transition: background .5s;
+    }
+    body:hover:before {
+      background: rgba(0,0,0, 0.7);
+    }
+    div {
+      position: relative;
+      color: white;
+    }
+    .result{
+      border: 5px solid red;
+      background-color: rgba(255, 45, 80, 0.7);
+      padding: 20px;
+      margin: 50px auto;
+      width:50%;
+      text-align: center;
+      font-size: 3rem;
+      opacity: 0.9;
+    }
+    .line{
+      text-align: center;
+      font-family:sans-serif
+    }
+    
+  </style>
+</head>
+<body>
+  <div class="result">
+    <h1>You are Covid Positive</h1>
+  </div>
+  <div class="line">
+    <h1>Please take care of yourself.</h1>
+    <h1>Get yourself home quarantined.</h1>
+  </div>
+
+</body>
+</html>
+{% endblock %}
